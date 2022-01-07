@@ -1,0 +1,7062 @@
+@prefix : <http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#> .
+@prefix ns1: <http://schema.org/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7> a owl:Ontology .
+
+:Computer_Vision_Algorithm a owl:Class ;
+    rdfs:label "Computer Vision Algorithm"@en ;
+    rdfs:subClassOf :Algorithm .
+
+:Object_Detection_Process_1 a :Object_Detection_Process ;
+    :has_input :Camera_Image_1,
+        :YOLO ;
+    :has_output :Object_detection_Image_1 .
+
+:Object_Detection_Process_10 a :Object_Detection_Process ;
+    :has_input :Camera_Image_10,
+        :YOLO ;
+    :has_output :Object_detection_Image_10 .
+
+:Object_Detection_Process_100 a :Object_Detection_Process ;
+    :has_input :Camera_Image_100,
+        :YOLO ;
+    :has_output :Object_detection_Image_100 .
+
+:Object_Detection_Process_101 a :Object_Detection_Process ;
+    :has_input :Camera_Image_101,
+        :YOLO ;
+    :has_output :Object_detection_Image_101 .
+
+:Object_Detection_Process_11 a :Object_Detection_Process ;
+    :has_input :Camera_Image_11,
+        :YOLO ;
+    :has_output :Object_detection_Image_11 .
+
+:Object_Detection_Process_12 a :Object_Detection_Process ;
+    :has_input :Camera_Image_12,
+        :YOLO ;
+    :has_output :Object_detection_Image_12 .
+
+:Object_Detection_Process_13 a :Object_Detection_Process ;
+    :has_input :Camera_Image_13,
+        :YOLO ;
+    :has_output :Object_detection_Image_13 .
+
+:Object_Detection_Process_14 a :Object_Detection_Process ;
+    :has_input :Camera_Image_14,
+        :YOLO ;
+    :has_output :Object_detection_Image_14 .
+
+:Object_Detection_Process_15 a :Object_Detection_Process ;
+    :has_input :Camera_Image_15,
+        :YOLO ;
+    :has_output :Object_detection_Image_15 .
+
+:Object_Detection_Process_16 a :Object_Detection_Process ;
+    :has_input :Camera_Image_16,
+        :YOLO ;
+    :has_output :Object_detection_Image_16 .
+
+:Object_Detection_Process_17 a :Object_Detection_Process ;
+    :has_input :Camera_Image_17,
+        :YOLO ;
+    :has_output :Object_detection_Image_17 .
+
+:Object_Detection_Process_18 a :Object_Detection_Process ;
+    :has_input :Camera_Image_18,
+        :YOLO ;
+    :has_output :Object_detection_Image_18 .
+
+:Object_Detection_Process_19 a :Object_Detection_Process ;
+    :has_input :Camera_Image_19,
+        :YOLO ;
+    :has_output :Object_detection_Image_19 .
+
+:Object_Detection_Process_2 a :Object_Detection_Process ;
+    :has_input :Camera_Image_2,
+        :YOLO ;
+    :has_output :Object_detection_Image_2 .
+
+:Object_Detection_Process_20 a :Object_Detection_Process ;
+    :has_input :Camera_Image_20,
+        :YOLO ;
+    :has_output :Object_detection_Image_20 .
+
+:Object_Detection_Process_21 a :Object_Detection_Process ;
+    :has_input :Camera_Image_21,
+        :YOLO ;
+    :has_output :Object_detection_Image_21 .
+
+:Object_Detection_Process_22 a :Object_Detection_Process ;
+    :has_input :Camera_Image_22,
+        :YOLO ;
+    :has_output :Object_detection_Image_22 .
+
+:Object_Detection_Process_23 a :Object_Detection_Process ;
+    :has_input :Camera_Image_23,
+        :YOLO ;
+    :has_output :Object_detection_Image_23 .
+
+:Object_Detection_Process_24 a :Object_Detection_Process ;
+    :has_input :Camera_Image_24,
+        :YOLO ;
+    :has_output :Object_detection_Image_24 .
+
+:Object_Detection_Process_25 a :Object_Detection_Process ;
+    :has_input :Camera_Image_25,
+        :YOLO ;
+    :has_output :Object_detection_Image_25 .
+
+:Object_Detection_Process_26 a :Object_Detection_Process ;
+    :has_input :Camera_Image_26,
+        :YOLO ;
+    :has_output :Object_detection_Image_26 .
+
+:Object_Detection_Process_27 a :Object_Detection_Process ;
+    :has_input :Camera_Image_27,
+        :YOLO ;
+    :has_output :Object_detection_Image_27 .
+
+:Object_Detection_Process_28 a :Object_Detection_Process ;
+    :has_input :Camera_Image_28,
+        :YOLO ;
+    :has_output :Object_detection_Image_28 .
+
+:Object_Detection_Process_29 a :Object_Detection_Process ;
+    :has_input :Camera_Image_29,
+        :YOLO ;
+    :has_output :Object_detection_Image_29 .
+
+:Object_Detection_Process_3 a :Object_Detection_Process ;
+    :has_input :Camera_Image_3,
+        :YOLO ;
+    :has_output :Object_detection_Image_3 .
+
+:Object_Detection_Process_30 a :Object_Detection_Process ;
+    :has_input :Camera_Image_30,
+        :YOLO ;
+    :has_output :Object_detection_Image_30 .
+
+:Object_Detection_Process_31 a :Object_Detection_Process ;
+    :has_input :Camera_Image_31,
+        :YOLO ;
+    :has_output :Object_detection_Image_31 .
+
+:Object_Detection_Process_32 a :Object_Detection_Process ;
+    :has_input :Camera_Image_32,
+        :YOLO ;
+    :has_output :Object_detection_Image_32 .
+
+:Object_Detection_Process_33 a :Object_Detection_Process ;
+    :has_input :Camera_Image_33,
+        :YOLO ;
+    :has_output :Object_detection_Image_33 .
+
+:Object_Detection_Process_34 a :Object_Detection_Process ;
+    :has_input :Camera_Image_34,
+        :YOLO ;
+    :has_output :Object_detection_Image_34 .
+
+:Object_Detection_Process_35 a :Object_Detection_Process ;
+    :has_input :Camera_Image_35,
+        :YOLO ;
+    :has_output :Object_detection_Image_35 .
+
+:Object_Detection_Process_36 a :Object_Detection_Process ;
+    :has_input :Camera_Image_36,
+        :YOLO ;
+    :has_output :Object_detection_Image_36 .
+
+:Object_Detection_Process_37 a :Object_Detection_Process ;
+    :has_input :Camera_Image_37,
+        :YOLO ;
+    :has_output :Object_detection_Image_37 .
+
+:Object_Detection_Process_38 a :Object_Detection_Process ;
+    :has_input :Camera_Image_38,
+        :YOLO ;
+    :has_output :Object_detection_Image_38 .
+
+:Object_Detection_Process_39 a :Object_Detection_Process ;
+    :has_input :Camera_Image_39,
+        :YOLO ;
+    :has_output :Object_detection_Image_39 .
+
+:Object_Detection_Process_4 a :Object_Detection_Process ;
+    :has_input :Camera_Image_4,
+        :YOLO ;
+    :has_output :Object_detection_Image_4 .
+
+:Object_Detection_Process_40 a :Object_Detection_Process ;
+    :has_input :Camera_Image_40,
+        :YOLO ;
+    :has_output :Object_detection_Image_40 .
+
+:Object_Detection_Process_41 a :Object_Detection_Process ;
+    :has_input :Camera_Image_41,
+        :YOLO ;
+    :has_output :Object_detection_Image_41 .
+
+:Object_Detection_Process_42 a :Object_Detection_Process ;
+    :has_input :Camera_Image_42,
+        :YOLO ;
+    :has_output :Object_detection_Image_42 .
+
+:Object_Detection_Process_43 a :Object_Detection_Process ;
+    :has_input :Camera_Image_43,
+        :YOLO ;
+    :has_output :Object_detection_Image_43 .
+
+:Object_Detection_Process_44 a :Object_Detection_Process ;
+    :has_input :Camera_Image_44,
+        :YOLO ;
+    :has_output :Object_detection_Image_44 .
+
+:Object_Detection_Process_45 a :Object_Detection_Process ;
+    :has_input :Camera_Image_45,
+        :YOLO ;
+    :has_output :Object_detection_Image_45 .
+
+:Object_Detection_Process_46 a :Object_Detection_Process ;
+    :has_input :Camera_Image_46,
+        :YOLO ;
+    :has_output :Object_detection_Image_46 .
+
+:Object_Detection_Process_47 a :Object_Detection_Process ;
+    :has_input :Camera_Image_47,
+        :YOLO ;
+    :has_output :Object_detection_Image_47 .
+
+:Object_Detection_Process_48 a :Object_Detection_Process ;
+    :has_input :Camera_Image_48,
+        :YOLO ;
+    :has_output :Object_detection_Image_48 .
+
+:Object_Detection_Process_49 a :Object_Detection_Process ;
+    :has_input :Camera_Image_49,
+        :YOLO ;
+    :has_output :Object_detection_Image_49 .
+
+:Object_Detection_Process_5 a :Object_Detection_Process ;
+    :has_input :Camera_Image_5,
+        :YOLO ;
+    :has_output :Object_detection_Image_5 .
+
+:Object_Detection_Process_50 a :Object_Detection_Process ;
+    :has_input :Camera_Image_50,
+        :YOLO ;
+    :has_output :Object_detection_Image_50 .
+
+:Object_Detection_Process_51 a :Object_Detection_Process ;
+    :has_input :Camera_Image_51,
+        :YOLO ;
+    :has_output :Object_detection_Image_51 .
+
+:Object_Detection_Process_52 a :Object_Detection_Process ;
+    :has_input :Camera_Image_52,
+        :YOLO ;
+    :has_output :Object_detection_Image_52 .
+
+:Object_Detection_Process_53 a :Object_Detection_Process ;
+    :has_input :Camera_Image_53,
+        :YOLO ;
+    :has_output :Object_detection_Image_53 .
+
+:Object_Detection_Process_54 a :Object_Detection_Process ;
+    :has_input :Camera_Image_54,
+        :YOLO ;
+    :has_output :Object_detection_Image_54 .
+
+:Object_Detection_Process_55 a :Object_Detection_Process ;
+    :has_input :Camera_Image_55,
+        :YOLO ;
+    :has_output :Object_detection_Image_55 .
+
+:Object_Detection_Process_56 a :Object_Detection_Process ;
+    :has_input :Camera_Image_56,
+        :YOLO ;
+    :has_output :Object_detection_Image_56 .
+
+:Object_Detection_Process_57 a :Object_Detection_Process ;
+    :has_input :Camera_Image_57,
+        :YOLO ;
+    :has_output :Object_detection_Image_57 .
+
+:Object_Detection_Process_58 a :Object_Detection_Process ;
+    :has_input :Camera_Image_58,
+        :YOLO ;
+    :has_output :Object_detection_Image_58 .
+
+:Object_Detection_Process_59 a :Object_Detection_Process ;
+    :has_input :Camera_Image_59,
+        :YOLO ;
+    :has_output :Object_detection_Image_59 .
+
+:Object_Detection_Process_6 a :Object_Detection_Process ;
+    :has_input :Camera_Image_6,
+        :YOLO ;
+    :has_output :Object_detection_Image_6 .
+
+:Object_Detection_Process_60 a :Object_Detection_Process ;
+    :has_input :Camera_Image_60,
+        :YOLO ;
+    :has_output :Object_detection_Image_60 .
+
+:Object_Detection_Process_61 a :Object_Detection_Process ;
+    :has_input :Camera_Image_61,
+        :YOLO ;
+    :has_output :Object_detection_Image_61 .
+
+:Object_Detection_Process_62 a :Object_Detection_Process ;
+    :has_input :Camera_Image_62,
+        :YOLO ;
+    :has_output :Object_detection_Image_62 .
+
+:Object_Detection_Process_63 a :Object_Detection_Process ;
+    :has_input :Camera_Image_63,
+        :YOLO ;
+    :has_output :Object_detection_Image_63 .
+
+:Object_Detection_Process_64 a :Object_Detection_Process ;
+    :has_input :Camera_Image_64,
+        :YOLO ;
+    :has_output :Object_detection_Image_64 .
+
+:Object_Detection_Process_65 a :Object_Detection_Process ;
+    :has_input :Camera_Image_65,
+        :YOLO ;
+    :has_output :Object_detection_Image_65 .
+
+:Object_Detection_Process_66 a :Object_Detection_Process ;
+    :has_input :Camera_Image_66,
+        :YOLO ;
+    :has_output :Object_detection_Image_66 .
+
+:Object_Detection_Process_67 a :Object_Detection_Process ;
+    :has_input :Camera_Image_67,
+        :YOLO ;
+    :has_output :Object_detection_Image_67 .
+
+:Object_Detection_Process_68 a :Object_Detection_Process ;
+    :has_input :Camera_Image_68,
+        :YOLO ;
+    :has_output :Object_detection_Image_68 .
+
+:Object_Detection_Process_69 a :Object_Detection_Process ;
+    :has_input :Camera_Image_69,
+        :YOLO ;
+    :has_output :Object_detection_Image_69 .
+
+:Object_Detection_Process_7 a :Object_Detection_Process ;
+    :has_input :Camera_Image_7,
+        :YOLO ;
+    :has_output :Object_detection_Image_7 .
+
+:Object_Detection_Process_70 a :Object_Detection_Process ;
+    :has_input :Camera_Image_70,
+        :YOLO ;
+    :has_output :Object_detection_Image_70 .
+
+:Object_Detection_Process_71 a :Object_Detection_Process ;
+    :has_input :Camera_Image_71,
+        :YOLO ;
+    :has_output :Object_detection_Image_71 .
+
+:Object_Detection_Process_72 a :Object_Detection_Process ;
+    :has_input :Camera_Image_72,
+        :YOLO ;
+    :has_output :Object_detection_Image_72 .
+
+:Object_Detection_Process_73 a :Object_Detection_Process ;
+    :has_input :Camera_Image_73,
+        :YOLO ;
+    :has_output :Object_detection_Image_73 .
+
+:Object_Detection_Process_74 a :Object_Detection_Process ;
+    :has_input :Camera_Image_74,
+        :YOLO ;
+    :has_output :Object_detection_Image_74 .
+
+:Object_Detection_Process_75 a :Object_Detection_Process ;
+    :has_input :Camera_Image_75,
+        :YOLO ;
+    :has_output :Object_detection_Image_75 .
+
+:Object_Detection_Process_76 a :Object_Detection_Process ;
+    :has_input :Camera_Image_76,
+        :YOLO ;
+    :has_output :Object_detection_Image_76 .
+
+:Object_Detection_Process_77 a :Object_Detection_Process ;
+    :has_input :Camera_Image_77,
+        :YOLO ;
+    :has_output :Object_detection_Image_77 .
+
+:Object_Detection_Process_78 a :Object_Detection_Process ;
+    :has_input :Camera_Image_78,
+        :YOLO ;
+    :has_output :Object_detection_Image_78 .
+
+:Object_Detection_Process_79 a :Object_Detection_Process ;
+    :has_input :Camera_Image_79,
+        :YOLO ;
+    :has_output :Object_detection_Image_79 .
+
+:Object_Detection_Process_8 a :Object_Detection_Process ;
+    :has_input :Camera_Image_8,
+        :YOLO ;
+    :has_output :Object_detection_Image_8 .
+
+:Object_Detection_Process_80 a :Object_Detection_Process ;
+    :has_input :Camera_Image_80,
+        :YOLO ;
+    :has_output :Object_detection_Image_80 .
+
+:Object_Detection_Process_81 a :Object_Detection_Process ;
+    :has_input :Camera_Image_81,
+        :YOLO ;
+    :has_output :Object_detection_Image_81 .
+
+:Object_Detection_Process_82 a :Object_Detection_Process ;
+    :has_input :Camera_Image_82,
+        :YOLO ;
+    :has_output :Object_detection_Image_82 .
+
+:Object_Detection_Process_83 a :Object_Detection_Process ;
+    :has_input :Camera_Image_83,
+        :YOLO ;
+    :has_output :Object_detection_Image_83 .
+
+:Object_Detection_Process_84 a :Object_Detection_Process ;
+    :has_input :Camera_Image_84,
+        :YOLO ;
+    :has_output :Object_detection_Image_84 .
+
+:Object_Detection_Process_85 a :Object_Detection_Process ;
+    :has_input :Camera_Image_85,
+        :YOLO ;
+    :has_output :Object_detection_Image_85 .
+
+:Object_Detection_Process_86 a :Object_Detection_Process ;
+    :has_input :Camera_Image_86,
+        :YOLO ;
+    :has_output :Object_detection_Image_86 .
+
+:Object_Detection_Process_87 a :Object_Detection_Process ;
+    :has_input :Camera_Image_87,
+        :YOLO ;
+    :has_output :Object_detection_Image_87 .
+
+:Object_Detection_Process_88 a :Object_Detection_Process ;
+    :has_input :Camera_Image_88,
+        :YOLO ;
+    :has_output :Object_detection_Image_88 .
+
+:Object_Detection_Process_89 a :Object_Detection_Process ;
+    :has_input :Camera_Image_89,
+        :YOLO ;
+    :has_output :Object_detection_Image_89 .
+
+:Object_Detection_Process_9 a :Object_Detection_Process ;
+    :has_input :Camera_Image_9,
+        :YOLO ;
+    :has_output :Object_detection_Image_9 .
+
+:Object_Detection_Process_90 a :Object_Detection_Process ;
+    :has_input :Camera_Image_90,
+        :YOLO ;
+    :has_output :Object_detection_Image_90 .
+
+:Object_Detection_Process_91 a :Object_Detection_Process ;
+    :has_input :Camera_Image_91,
+        :YOLO ;
+    :has_output :Object_detection_Image_91 .
+
+:Object_Detection_Process_92 a :Object_Detection_Process ;
+    :has_input :Camera_Image_92,
+        :YOLO ;
+    :has_output :Object_detection_Image_92 .
+
+:Object_Detection_Process_93 a :Object_Detection_Process ;
+    :has_input :Camera_Image_93,
+        :YOLO ;
+    :has_output :Object_detection_Image_93 .
+
+:Object_Detection_Process_94 a :Object_Detection_Process ;
+    :has_input :Camera_Image_94,
+        :YOLO ;
+    :has_output :Object_detection_Image_94 .
+
+:Object_Detection_Process_95 a :Object_Detection_Process ;
+    :has_input :Camera_Image_95,
+        :YOLO ;
+    :has_output :Object_detection_Image_95 .
+
+:Object_Detection_Process_96 a :Object_Detection_Process ;
+    :has_input :Camera_Image_96,
+        :YOLO ;
+    :has_output :Object_detection_Image_96 .
+
+:Object_Detection_Process_97 a :Object_Detection_Process ;
+    :has_input :Camera_Image_97,
+        :YOLO ;
+    :has_output :Object_detection_Image_97 .
+
+:Object_Detection_Process_98 a :Object_Detection_Process ;
+    :has_input :Camera_Image_98,
+        :YOLO ;
+    :has_output :Object_detection_Image_98 .
+
+:Object_Detection_Process_99 a :Object_Detection_Process ;
+    :has_input :Camera_Image_99,
+        :YOLO ;
+    :has_output :Object_detection_Image_99 .
+
+:contains a owl:AnnotationProperty .
+
+:has_input a owl:AnnotationProperty ;
+    rdfs:label "has input"@en .
+
+:has_output a owl:AnnotationProperty ;
+    rdfs:label "has output"@en .
+
+:haslabel a owl:AnnotationProperty .
+
+:is_located_at_x a owl:AnnotationProperty .
+
+:is_located_at_y a owl:AnnotationProperty .
+
+:occured_in a owl:AnnotationProperty ;
+    rdfs:label "occured in"@en .
+
+:pointclouddata a owl:Class ;
+    rdfs:label "Point Cloud Data"@en .
+
+:1002 a :objectlocation_x .
+
+:1006 a :objectlocation_x .
+
+:1012 a :objectlocation_x .
+
+:1017 a :objectlocation_x .
+
+:1021 a :objectlocation_x .
+
+:103 a :objectlocation_x .
+
+:1041 a :objectlocation_x .
+
+:1046 a :objectlocation_x .
+
+:1047 a :objectlocation_x .
+
+:1048 a :objectlocation_x .
+
+:1055 a :objectlocation_x .
+
+:1056 a :objectlocation_x .
+
+:1059 a :objectlocation_x .
+
+:1061 a :objectlocation_x .
+
+:1070 a :objectlocation_x .
+
+:1075 a :objectlocation_x .
+
+:1078 a :objectlocation_x .
+
+:1079 a :objectlocation_x .
+
+:1090 a :objectlocation_x .
+
+:1092 a :objectlocation_x .
+
+:1098 a :objectlocation_x .
+
+:1109 a :objectlocation_x .
+
+:1116 a :objectlocation_x .
+
+:1118 a :objectlocation_x .
+
+:115 a :objectlocation_y .
+
+:1153 a :objectlocation_x .
+
+:1160 a :objectlocation_x .
+
+:1161 a :objectlocation_x .
+
+:1167 a :objectlocation_x .
+
+:117 a :objectlocation_x .
+
+:1172 a :objectlocation_x .
+
+:1187 a :objectlocation_x .
+
+:1191 a :objectlocation_x .
+
+:120 a :objectlocation_x .
+
+:1200 a :objectlocation_x .
+
+:1204 a :objectlocation_x .
+
+:1208 a :objectlocation_x .
+
+:1227 a :objectlocation_x .
+
+:1228 a :objectlocation_x .
+
+:1229 a :objectlocation_x .
+
+:1237 a :objectlocation_x .
+
+:1238 a :objectlocation_x .
+
+:1241 a :objectlocation_x .
+
+:1246 a :objectlocation_x .
+
+:125 a :objectlocation_x .
+
+:1261 a :objectlocation_x .
+
+:1266 a :objectlocation_x .
+
+:1267 a :objectlocation_x .
+
+:1269 a :objectlocation_x .
+
+:1281 a :objectlocation_x .
+
+:1299 a :objectlocation_x .
+
+:130 a :objectlocation_y .
+
+:1314 a :objectlocation_x .
+
+:1316 a :objectlocation_x .
+
+:1320 a :objectlocation_x .
+
+:1339 a :objectlocation_x .
+
+:1340 a :objectlocation_x .
+
+:1341 a :objectlocation_x .
+
+:1343 a :objectlocation_x .
+
+:1344 a :objectlocation_x .
+
+:1347 a :objectlocation_x .
+
+:1364 a :objectlocation_x .
+
+:1369 a :objectlocation_x .
+
+:1370 a :objectlocation_x .
+
+:1374 a :objectlocation_x .
+
+:1393 a :objectlocation_x .
+
+:141 a :objectlocation_y .
+
+:1439 a :objectlocation_x .
+
+:1441 a :objectlocation_x .
+
+:1445 a :objectlocation_x .
+
+:1450 a :objectlocation_x .
+
+:1454 a :objectlocation_x .
+
+:1488 a :objectlocation_x .
+
+:1497 a :objectlocation_x .
+
+:152 a :objectlocation_y .
+
+:153 a :objectlocation_x .
+
+:154 a :objectlocation_x .
+
+:155 a :objectlocation_x .
+
+:1559 a :objectlocation_x .
+
+:156 a :objectlocation_x .
+
+:1560 a :objectlocation_x .
+
+:161 a :objectlocation_y .
+
+:1616 a :objectlocation_x .
+
+:166 a :objectlocation_x .
+
+:1678 a :objectlocation_x .
+
+:1688 a :objectlocation_x .
+
+:1696 a :objectlocation_x .
+
+:170 a :objectlocation_y .
+
+:1715 a :objectlocation_x .
+
+:1726 a :objectlocation_x .
+
+:1727 a :objectlocation_x .
+
+:1748 a :objectlocation_x .
+
+:1751 a :objectlocation_x .
+
+:1765 a :objectlocation_x .
+
+:179 a :objectlocation_y .
+
+:182 a :objectlocation_y .
+
+:1876 a :objectlocation_x .
+
+:1879 a :objectlocation_x .
+
+:1903 a :objectlocation_x .
+
+:193 a :objectlocation_y .
+
+:196 a :objectlocation_x .
+
+:197 a :objectlocation_x .
+
+:200 a :objectlocation_x .
+
+:201 a :objectlocation_y .
+
+:202 a :objectlocation_x .
+
+:204 a :objectlocation_y .
+
+:206 a :objectlocation_y .
+
+:211 a :objectlocation_x .
+
+:214 a :objectlocation_x .
+
+:216 a :objectlocation_x .
+
+:219 a :objectlocation_y .
+
+:224 a :objectlocation_y .
+
+:225 a :objectlocation_y .
+
+:227 a :objectlocation_x .
+
+:231 a :objectlocation_x .
+
+:232 a :objectlocation_y .
+
+:233 a :objectlocation_y .
+
+:237 a :objectlocation_y .
+
+:243 a :objectlocation_x .
+
+:251 a :objectlocation_y .
+
+:254 a :objectlocation_y .
+
+:255 a :objectlocation_x .
+
+:261 a :objectlocation_y .
+
+:265 a :objectlocation_y .
+
+:268 a :objectlocation_y .
+
+:270 a :objectlocation_x .
+
+:273 a :objectlocation_x .
+
+:276 a :objectlocation_y .
+
+:282 a :objectlocation_x .
+
+:283 a :objectlocation_x .
+
+:299 a :objectlocation_y .
+
+:304 a :objectlocation_y .
+
+:307 a :objectlocation_y .
+
+:310 a :objectlocation_x .
+
+:312 a :objectlocation_x .
+
+:314 a :objectlocation_y .
+
+:315 a :objectlocation_y .
+
+:317 a :objectlocation_y .
+
+:321 a :objectlocation_y .
+
+:326 a :objectlocation_y .
+
+:328 a :objectlocation_y .
+
+:338 a :objectlocation_y .
+
+:340 a :objectlocation_y .
+
+:341 a :objectlocation_y .
+
+:342 a :objectlocation_x .
+
+:344 a :objectlocation_y .
+
+:345 a :objectlocation_y .
+
+:346 a :objectlocation_y .
+
+:357 a :objectlocation_y .
+
+:361 a :objectlocation_y .
+
+:362 a :objectlocation_x .
+
+:363 a :objectlocation_x .
+
+:364 a :objectlocation_y .
+
+:366 a :objectlocation_x .
+
+:367 a :objectlocation_y .
+
+:368 a :objectlocation_y .
+
+:372 a :objectlocation_y .
+
+:379 a :objectlocation_x .
+
+:384 a :objectlocation_x .
+
+:385 a :objectlocation_y .
+
+:386 a :objectlocation_x .
+
+:387 a :objectlocation_x .
+
+:388 a :objectlocation_x .
+
+:390 a :objectlocation_y .
+
+:395 a :objectlocation_x .
+
+:396 a :objectlocation_y .
+
+:397 a :objectlocation_y .
+
+:398 a :objectlocation_y .
+
+:400 a :objectlocation_x .
+
+:407 a :objectlocation_y .
+
+:412 a :objectlocation_y .
+
+:415 a :objectlocation_x .
+
+:417 a :objectlocation_y .
+
+:434 a :objectlocation_x .
+
+:436 a :objectlocation_y .
+
+:437 a :objectlocation_y .
+
+:455 a :objectlocation_y .
+
+:463 a :objectlocation_y .
+
+:469 a :objectlocation_y .
+
+:478 a :objectlocation_y .
+
+:485 a :objectlocation_y .
+
+:496 a :objectlocation_y .
+
+:500 a :objectlocation_x .
+
+:502 a :objectlocation_y .
+
+:504 a :objectlocation_x .
+
+:508 a :objectlocation_y .
+
+:510 a :objectlocation_y .
+
+:515 a :objectlocation_y .
+
+:518 a :objectlocation_y .
+
+:523 a :objectlocation_y .
+
+:526 a :objectlocation_x .
+
+:530 a :objectlocation_x .
+
+:531 a :objectlocation_y .
+
+:540 a :objectlocation_x .
+
+:544 a :objectlocation_y .
+
+:551 a :objectlocation_y .
+
+:553 a :objectlocation_x .
+
+:562 a :objectlocation_x .
+
+:566 a :objectlocation_y .
+
+:568 a :objectlocation_x .
+
+:569 a :objectlocation_x .
+
+:570 a :objectlocation_y .
+
+:572 a :objectlocation_x .
+
+:575 a :objectlocation_x .
+
+:576 a :objectlocation_x .
+
+:577 a :objectlocation_x .
+
+:583 a :objectlocation_x .
+
+:588 a :objectlocation_y .
+
+:590 a :objectlocation_y .
+
+:592 a :objectlocation_y .
+
+:594 a :objectlocation_y .
+
+:598 a :objectlocation_x .
+
+:599 a :objectlocation_x .
+
+:604 a :objectlocation_x .
+
+:605 a :objectlocation_x .
+
+:632 a :objectlocation_x .
+
+:636 a :objectlocation_x .
+
+:644 a :objectlocation_x .
+
+:646 a :objectlocation_x .
+
+:647 a :objectlocation_y .
+
+:651 a :objectlocation_x .
+
+:653 a :objectlocation_x .
+
+:654 a :objectlocation_x .
+
+:656 a :objectlocation_x .
+
+:661 a :objectlocation_x .
+
+:677 a :objectlocation_x .
+
+:681 a :objectlocation_x .
+
+:682 a :objectlocation_y .
+
+:695 a :objectlocation_x .
+
+:696 a :objectlocation_x .
+
+:697 a :objectlocation_x .
+
+:711 a :objectlocation_x .
+
+:712 a :objectlocation_x .
+
+:714 a :objectlocation_x .
+
+:715 a :objectlocation_x .
+
+:716 a :objectlocation_x .
+
+:717 a :objectlocation_x .
+
+:719 a :objectlocation_x .
+
+:726 a :objectlocation_x .
+
+:727 a :objectlocation_x .
+
+:732 a :objectlocation_x .
+
+:736 a :objectlocation_x .
+
+:743 a :objectlocation_x .
+
+:744 a :objectlocation_x .
+
+:750 a :objectlocation_x .
+
+:751 a :objectlocation_x .
+
+:754 a :objectlocation_x .
+
+:755 a :objectlocation_x .
+
+:756 a :objectlocation_x .
+
+:757 a :objectlocation_x .
+
+:758 a :objectlocation_x .
+
+:762 a :objectlocation_x .
+
+:764 a :objectlocation_x .
+
+:768 a :objectlocation_x .
+
+:779 a :objectlocation_x .
+
+:781 a :objectlocation_x .
+
+:782 a :objectlocation_x .
+
+:785 a :objectlocation_x .
+
+:786 a :objectlocation_x .
+
+:791 a :objectlocation_x .
+
+:797 a :objectlocation_x .
+
+:798 a :objectlocation_x .
+
+:803 a :objectlocation_x .
+
+:807 a :objectlocation_x .
+
+:809 a :objectlocation_x .
+
+:817 a :objectlocation_x .
+
+:819 a :objectlocation_x .
+
+:822 a :objectlocation_x .
+
+:827 a :objectlocation_x .
+
+:832 a :objectlocation_x .
+
+:835 a :objectlocation_x .
+
+:838 a :objectlocation_x .
+
+:839 a :objectlocation_x .
+
+:840 a :objectlocation_x .
+
+:843 a :objectlocation_x .
+
+:847 a :objectlocation_x .
+
+:859 a :objectlocation_x .
+
+:861 a :objectlocation_x .
+
+:864 a :objectlocation_x .
+
+:870 a :objectlocation_x .
+
+:873 a :objectlocation_x .
+
+:874 a :objectlocation_x .
+
+:876 a :objectlocation_x .
+
+:882 a :objectlocation_x .
+
+:890 a :objectlocation_x .
+
+:893 a :objectlocation_x .
+
+:894 a :objectlocation_x .
+
+:897 a :objectlocation_x .
+
+:899 a :objectlocation_x .
+
+:900 a :objectlocation_x .
+
+:909 a :objectlocation_x .
+
+:911 a :objectlocation_x .
+
+:913 a :objectlocation_x .
+
+:914 a :objectlocation_x .
+
+:929 a :objectlocation_x .
+
+:932 a :objectlocation_x .
+
+:933 a :objectlocation_x .
+
+:934 a :objectlocation_x .
+
+:936 a :objectlocation_x .
+
+:943 a :objectlocation_x .
+
+:945 a :objectlocation_x .
+
+:946 a :objectlocation_x .
+
+:947 a :objectlocation_x .
+
+:952 a :objectlocation_x .
+
+:958 a :objectlocation_x .
+
+:964 a :objectlocation_x .
+
+:965 a :objectlocation_x .
+
+:968 a :objectlocation_x .
+
+:970 a :objectlocation_x .
+
+:971 a :objectlocation_x .
+
+:972 a :objectlocation_x .
+
+:976 a :objectlocation_x .
+
+:981 a :objectlocation_x .
+
+:985 a :objectlocation_x .
+
+:988 a :objectlocation_x .
+
+:989 a :objectlocation_x .
+
+:993 a :objectlocation_x .
+
+:Algorithm a owl:Class .
+
+:Camera_Image_1 a :Camera_Image ;
+    ns1:image </input/camera_image_1.jpg> ;
+    :occured_in :1 .
+
+:Camera_Image_10 a :Camera_Image ;
+    ns1:image </input/camera_image_10.jpg> ;
+    :occured_in :10 .
+
+:Camera_Image_100 a :Camera_Image ;
+    ns1:image </input/camera_image_100.jpg> ;
+    :occured_in :100 .
+
+:Camera_Image_101 a :Camera_Image ;
+    ns1:image </input/camera_image_101.jpg> ;
+    :occured_in :101 .
+
+:Camera_Image_11 a :Camera_Image ;
+    ns1:image </input/camera_image_11.jpg> ;
+    :occured_in :11 .
+
+:Camera_Image_12 a :Camera_Image ;
+    ns1:image </input/camera_image_12.jpg> ;
+    :occured_in :12 .
+
+:Camera_Image_13 a :Camera_Image ;
+    ns1:image </input/camera_image_13.jpg> ;
+    :occured_in :13 .
+
+:Camera_Image_14 a :Camera_Image ;
+    ns1:image </input/camera_image_14.jpg> ;
+    :occured_in :14 .
+
+:Camera_Image_15 a :Camera_Image ;
+    ns1:image </input/camera_image_15.jpg> ;
+    :occured_in :15 .
+
+:Camera_Image_16 a :Camera_Image ;
+    ns1:image </input/camera_image_16.jpg> ;
+    :occured_in :16 .
+
+:Camera_Image_17 a :Camera_Image ;
+    ns1:image </input/camera_image_17.jpg> ;
+    :occured_in :17 .
+
+:Camera_Image_18 a :Camera_Image ;
+    ns1:image </input/camera_image_18.jpg> ;
+    :occured_in :18 .
+
+:Camera_Image_19 a :Camera_Image ;
+    ns1:image </input/camera_image_19.jpg> ;
+    :occured_in :19 .
+
+:Camera_Image_2 a :Camera_Image ;
+    ns1:image </input/camera_image_2.jpg> ;
+    :occured_in :2 .
+
+:Camera_Image_20 a :Camera_Image ;
+    ns1:image </input/camera_image_20.jpg> ;
+    :occured_in :20 .
+
+:Camera_Image_21 a :Camera_Image ;
+    ns1:image </input/camera_image_21.jpg> ;
+    :occured_in :21 .
+
+:Camera_Image_22 a :Camera_Image ;
+    ns1:image </input/camera_image_22.jpg> ;
+    :occured_in :22 .
+
+:Camera_Image_23 a :Camera_Image ;
+    ns1:image </input/camera_image_23.jpg> ;
+    :occured_in :23 .
+
+:Camera_Image_24 a :Camera_Image ;
+    ns1:image </input/camera_image_24.jpg> ;
+    :occured_in :24 .
+
+:Camera_Image_25 a :Camera_Image ;
+    ns1:image </input/camera_image_25.jpg> ;
+    :occured_in :25 .
+
+:Camera_Image_26 a :Camera_Image ;
+    ns1:image </input/camera_image_26.jpg> ;
+    :occured_in :26 .
+
+:Camera_Image_27 a :Camera_Image ;
+    ns1:image </input/camera_image_27.jpg> ;
+    :occured_in :27 .
+
+:Camera_Image_28 a :Camera_Image ;
+    ns1:image </input/camera_image_28.jpg> ;
+    :occured_in :28 .
+
+:Camera_Image_29 a :Camera_Image ;
+    ns1:image </input/camera_image_29.jpg> ;
+    :occured_in :29 .
+
+:Camera_Image_3 a :Camera_Image ;
+    ns1:image </input/camera_image_3.jpg> ;
+    :occured_in :3 .
+
+:Camera_Image_30 a :Camera_Image ;
+    ns1:image </input/camera_image_30.jpg> ;
+    :occured_in :30 .
+
+:Camera_Image_31 a :Camera_Image ;
+    ns1:image </input/camera_image_31.jpg> ;
+    :occured_in :31 .
+
+:Camera_Image_32 a :Camera_Image ;
+    ns1:image </input/camera_image_32.jpg> ;
+    :occured_in :32 .
+
+:Camera_Image_33 a :Camera_Image ;
+    ns1:image </input/camera_image_33.jpg> ;
+    :occured_in :33 .
+
+:Camera_Image_34 a :Camera_Image ;
+    ns1:image </input/camera_image_34.jpg> ;
+    :occured_in :34 .
+
+:Camera_Image_35 a :Camera_Image ;
+    ns1:image </input/camera_image_35.jpg> ;
+    :occured_in :35 .
+
+:Camera_Image_36 a :Camera_Image ;
+    ns1:image </input/camera_image_36.jpg> ;
+    :occured_in :36 .
+
+:Camera_Image_37 a :Camera_Image ;
+    ns1:image </input/camera_image_37.jpg> ;
+    :occured_in :37 .
+
+:Camera_Image_38 a :Camera_Image ;
+    ns1:image </input/camera_image_38.jpg> ;
+    :occured_in :38 .
+
+:Camera_Image_39 a :Camera_Image ;
+    ns1:image </input/camera_image_39.jpg> ;
+    :occured_in :39 .
+
+:Camera_Image_4 a :Camera_Image ;
+    ns1:image </input/camera_image_4.jpg> ;
+    :occured_in :4 .
+
+:Camera_Image_40 a :Camera_Image ;
+    ns1:image </input/camera_image_40.jpg> ;
+    :occured_in :40 .
+
+:Camera_Image_41 a :Camera_Image ;
+    ns1:image </input/camera_image_41.jpg> ;
+    :occured_in :41 .
+
+:Camera_Image_42 a :Camera_Image ;
+    ns1:image </input/camera_image_42.jpg> ;
+    :occured_in :42 .
+
+:Camera_Image_43 a :Camera_Image ;
+    ns1:image </input/camera_image_43.jpg> ;
+    :occured_in :43 .
+
+:Camera_Image_44 a :Camera_Image ;
+    ns1:image </input/camera_image_44.jpg> ;
+    :occured_in :44 .
+
+:Camera_Image_45 a :Camera_Image ;
+    ns1:image </input/camera_image_45.jpg> ;
+    :occured_in :45 .
+
+:Camera_Image_46 a :Camera_Image ;
+    ns1:image </input/camera_image_46.jpg> ;
+    :occured_in :46 .
+
+:Camera_Image_47 a :Camera_Image ;
+    ns1:image </input/camera_image_47.jpg> ;
+    :occured_in :47 .
+
+:Camera_Image_48 a :Camera_Image ;
+    ns1:image </input/camera_image_48.jpg> ;
+    :occured_in :48 .
+
+:Camera_Image_49 a :Camera_Image ;
+    ns1:image </input/camera_image_49.jpg> ;
+    :occured_in :49 .
+
+:Camera_Image_5 a :Camera_Image ;
+    ns1:image </input/camera_image_5.jpg> ;
+    :occured_in :5 .
+
+:Camera_Image_50 a :Camera_Image ;
+    ns1:image </input/camera_image_50.jpg> ;
+    :occured_in :50 .
+
+:Camera_Image_51 a :Camera_Image ;
+    ns1:image </input/camera_image_51.jpg> ;
+    :occured_in :51 .
+
+:Camera_Image_52 a :Camera_Image ;
+    ns1:image </input/camera_image_52.jpg> ;
+    :occured_in :52 .
+
+:Camera_Image_53 a :Camera_Image ;
+    ns1:image </input/camera_image_53.jpg> ;
+    :occured_in :53 .
+
+:Camera_Image_54 a :Camera_Image ;
+    ns1:image </input/camera_image_54.jpg> ;
+    :occured_in :54 .
+
+:Camera_Image_55 a :Camera_Image ;
+    ns1:image </input/camera_image_55.jpg> ;
+    :occured_in :55 .
+
+:Camera_Image_56 a :Camera_Image ;
+    ns1:image </input/camera_image_56.jpg> ;
+    :occured_in :56 .
+
+:Camera_Image_57 a :Camera_Image ;
+    ns1:image </input/camera_image_57.jpg> ;
+    :occured_in :57 .
+
+:Camera_Image_58 a :Camera_Image ;
+    ns1:image </input/camera_image_58.jpg> ;
+    :occured_in :58 .
+
+:Camera_Image_59 a :Camera_Image ;
+    ns1:image </input/camera_image_59.jpg> ;
+    :occured_in :59 .
+
+:Camera_Image_6 a :Camera_Image ;
+    ns1:image </input/camera_image_6.jpg> ;
+    :occured_in :6 .
+
+:Camera_Image_60 a :Camera_Image ;
+    ns1:image </input/camera_image_60.jpg> ;
+    :occured_in :60 .
+
+:Camera_Image_61 a :Camera_Image ;
+    ns1:image </input/camera_image_61.jpg> ;
+    :occured_in :61 .
+
+:Camera_Image_62 a :Camera_Image ;
+    ns1:image </input/camera_image_62.jpg> ;
+    :occured_in :62 .
+
+:Camera_Image_63 a :Camera_Image ;
+    ns1:image </input/camera_image_63.jpg> ;
+    :occured_in :63 .
+
+:Camera_Image_64 a :Camera_Image ;
+    ns1:image </input/camera_image_64.jpg> ;
+    :occured_in :64 .
+
+:Camera_Image_65 a :Camera_Image ;
+    ns1:image </input/camera_image_65.jpg> ;
+    :occured_in :65 .
+
+:Camera_Image_66 a :Camera_Image ;
+    ns1:image </input/camera_image_66.jpg> ;
+    :occured_in :66 .
+
+:Camera_Image_67 a :Camera_Image ;
+    ns1:image </input/camera_image_67.jpg> ;
+    :occured_in :67 .
+
+:Camera_Image_68 a :Camera_Image ;
+    ns1:image </input/camera_image_68.jpg> ;
+    :occured_in :68 .
+
+:Camera_Image_69 a :Camera_Image ;
+    ns1:image </input/camera_image_69.jpg> ;
+    :occured_in :69 .
+
+:Camera_Image_7 a :Camera_Image ;
+    ns1:image </input/camera_image_7.jpg> ;
+    :occured_in :7 .
+
+:Camera_Image_70 a :Camera_Image ;
+    ns1:image </input/camera_image_70.jpg> ;
+    :occured_in :70 .
+
+:Camera_Image_71 a :Camera_Image ;
+    ns1:image </input/camera_image_71.jpg> ;
+    :occured_in :71 .
+
+:Camera_Image_72 a :Camera_Image ;
+    ns1:image </input/camera_image_72.jpg> ;
+    :occured_in :72 .
+
+:Camera_Image_73 a :Camera_Image ;
+    ns1:image </input/camera_image_73.jpg> ;
+    :occured_in :73 .
+
+:Camera_Image_74 a :Camera_Image ;
+    ns1:image </input/camera_image_74.jpg> ;
+    :occured_in :74 .
+
+:Camera_Image_75 a :Camera_Image ;
+    ns1:image </input/camera_image_75.jpg> ;
+    :occured_in :75 .
+
+:Camera_Image_76 a :Camera_Image ;
+    ns1:image </input/camera_image_76.jpg> ;
+    :occured_in :76 .
+
+:Camera_Image_77 a :Camera_Image ;
+    ns1:image </input/camera_image_77.jpg> ;
+    :occured_in :77 .
+
+:Camera_Image_78 a :Camera_Image ;
+    ns1:image </input/camera_image_78.jpg> ;
+    :occured_in :78 .
+
+:Camera_Image_79 a :Camera_Image ;
+    ns1:image </input/camera_image_79.jpg> ;
+    :occured_in :79 .
+
+:Camera_Image_8 a :Camera_Image ;
+    ns1:image </input/camera_image_8.jpg> ;
+    :occured_in :8 .
+
+:Camera_Image_80 a :Camera_Image ;
+    ns1:image </input/camera_image_80.jpg> ;
+    :occured_in :80 .
+
+:Camera_Image_81 a :Camera_Image ;
+    ns1:image </input/camera_image_81.jpg> ;
+    :occured_in :81 .
+
+:Camera_Image_82 a :Camera_Image ;
+    ns1:image </input/camera_image_82.jpg> ;
+    :occured_in :82 .
+
+:Camera_Image_83 a :Camera_Image ;
+    ns1:image </input/camera_image_83.jpg> ;
+    :occured_in :83 .
+
+:Camera_Image_84 a :Camera_Image ;
+    ns1:image </input/camera_image_84.jpg> ;
+    :occured_in :84 .
+
+:Camera_Image_85 a :Camera_Image ;
+    ns1:image </input/camera_image_85.jpg> ;
+    :occured_in :85 .
+
+:Camera_Image_86 a :Camera_Image ;
+    ns1:image </input/camera_image_86.jpg> ;
+    :occured_in :86 .
+
+:Camera_Image_87 a :Camera_Image ;
+    ns1:image </input/camera_image_87.jpg> ;
+    :occured_in :87 .
+
+:Camera_Image_88 a :Camera_Image ;
+    ns1:image </input/camera_image_88.jpg> ;
+    :occured_in :88 .
+
+:Camera_Image_89 a :Camera_Image ;
+    ns1:image </input/camera_image_89.jpg> ;
+    :occured_in :89 .
+
+:Camera_Image_9 a :Camera_Image ;
+    ns1:image </input/camera_image_9.jpg> ;
+    :occured_in :9 .
+
+:Camera_Image_90 a :Camera_Image ;
+    ns1:image </input/camera_image_90.jpg> ;
+    :occured_in :90 .
+
+:Camera_Image_91 a :Camera_Image ;
+    ns1:image </input/camera_image_91.jpg> ;
+    :occured_in :91 .
+
+:Camera_Image_92 a :Camera_Image ;
+    ns1:image </input/camera_image_92.jpg> ;
+    :occured_in :92 .
+
+:Camera_Image_93 a :Camera_Image ;
+    ns1:image </input/camera_image_93.jpg> ;
+    :occured_in :93 .
+
+:Camera_Image_94 a :Camera_Image ;
+    ns1:image </input/camera_image_94.jpg> ;
+    :occured_in :94 .
+
+:Camera_Image_95 a :Camera_Image ;
+    ns1:image </input/camera_image_95.jpg> ;
+    :occured_in :95 .
+
+:Camera_Image_96 a :Camera_Image ;
+    ns1:image </input/camera_image_96.jpg> ;
+    :occured_in :96 .
+
+:Camera_Image_97 a :Camera_Image ;
+    ns1:image </input/camera_image_97.jpg> ;
+    :occured_in :97 .
+
+:Camera_Image_98 a :Camera_Image ;
+    ns1:image </input/camera_image_98.jpg> ;
+    :occured_in :98 .
+
+:Camera_Image_99 a :Camera_Image ;
+    ns1:image </input/camera_image_99.jpg> ;
+    :occured_in :99 .
+
+:Object_detection_Image_1 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_1.jpg> ;
+    :contains :detectedobject_1_1,
+        :detectedobject_1_2,
+        :detectedobject_1_3,
+        :detectedobject_1_4,
+        :detectedobject_1_5,
+        :detectedobject_1_6 ;
+    :occured_in :1 .
+
+:Object_detection_Image_10 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_10.jpg> ;
+    :contains :detectedobject_10_1,
+        :detectedobject_10_10,
+        :detectedobject_10_2,
+        :detectedobject_10_3,
+        :detectedobject_10_4,
+        :detectedobject_10_5,
+        :detectedobject_10_6,
+        :detectedobject_10_7,
+        :detectedobject_10_8,
+        :detectedobject_10_9 ;
+    :occured_in :10 .
+
+:Object_detection_Image_100 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_100.jpg> ;
+    :contains :detectedobject_100_1,
+        :detectedobject_100_2,
+        :detectedobject_100_3,
+        :detectedobject_100_4,
+        :detectedobject_100_5,
+        :detectedobject_100_6 ;
+    :occured_in :100 .
+
+:Object_detection_Image_101 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_101.jpg> ;
+    :contains :detectedobject_101_1,
+        :detectedobject_101_2,
+        :detectedobject_101_3,
+        :detectedobject_101_4,
+        :detectedobject_101_5,
+        :detectedobject_101_6,
+        :detectedobject_101_7,
+        :detectedobject_101_8,
+        :detectedobject_101_9 ;
+    :occured_in :101 .
+
+:Object_detection_Image_11 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_11.jpg> ;
+    :contains :detectedobject_11_1,
+        :detectedobject_11_10,
+        :detectedobject_11_11,
+        :detectedobject_11_12,
+        :detectedobject_11_2,
+        :detectedobject_11_3,
+        :detectedobject_11_4,
+        :detectedobject_11_5,
+        :detectedobject_11_6,
+        :detectedobject_11_7,
+        :detectedobject_11_8,
+        :detectedobject_11_9 ;
+    :occured_in :11 .
+
+:Object_detection_Image_12 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_12.jpg> ;
+    :contains :detectedobject_12_1,
+        :detectedobject_12_2,
+        :detectedobject_12_3,
+        :detectedobject_12_4,
+        :detectedobject_12_5 ;
+    :occured_in :12 .
+
+:Object_detection_Image_13 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_13.jpg> ;
+    :contains :detectedobject_13_1,
+        :detectedobject_13_2,
+        :detectedobject_13_3,
+        :detectedobject_13_4,
+        :detectedobject_13_5 ;
+    :occured_in :13 .
+
+:Object_detection_Image_14 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_14.jpg> ;
+    :contains :detectedobject_14_1,
+        :detectedobject_14_2,
+        :detectedobject_14_3 ;
+    :occured_in :14 .
+
+:Object_detection_Image_15 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_15.jpg> ;
+    :contains :detectedobject_15_1,
+        :detectedobject_15_2,
+        :detectedobject_15_3,
+        :detectedobject_15_4,
+        :detectedobject_15_5 ;
+    :occured_in :15 .
+
+:Object_detection_Image_16 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_16.jpg> ;
+    :contains :detectedobject_16_1,
+        :detectedobject_16_2,
+        :detectedobject_16_3,
+        :detectedobject_16_4 ;
+    :occured_in :16 .
+
+:Object_detection_Image_17 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_17.jpg> ;
+    :contains :detectedobject_17_1,
+        :detectedobject_17_2,
+        :detectedobject_17_3,
+        :detectedobject_17_4,
+        :detectedobject_17_5 ;
+    :occured_in :17 .
+
+:Object_detection_Image_18 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_18.jpg> ;
+    :contains :detectedobject_18_1,
+        :detectedobject_18_2,
+        :detectedobject_18_3,
+        :detectedobject_18_4,
+        :detectedobject_18_5 ;
+    :occured_in :18 .
+
+:Object_detection_Image_19 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_19.jpg> ;
+    :contains :detectedobject_19_1,
+        :detectedobject_19_2,
+        :detectedobject_19_3,
+        :detectedobject_19_4,
+        :detectedobject_19_5,
+        :detectedobject_19_6 ;
+    :occured_in :19 .
+
+:Object_detection_Image_2 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_2.jpg> ;
+    :contains :detectedobject_2_1,
+        :detectedobject_2_2,
+        :detectedobject_2_3,
+        :detectedobject_2_4,
+        :detectedobject_2_5,
+        :detectedobject_2_6 ;
+    :occured_in :2 .
+
+:Object_detection_Image_20 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_20.jpg> ;
+    :contains :detectedobject_20_1,
+        :detectedobject_20_2,
+        :detectedobject_20_3,
+        :detectedobject_20_4,
+        :detectedobject_20_5,
+        :detectedobject_20_6,
+        :detectedobject_20_7 ;
+    :occured_in :20 .
+
+:Object_detection_Image_21 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_21.jpg> ;
+    :contains :detectedobject_21_1,
+        :detectedobject_21_2,
+        :detectedobject_21_3,
+        :detectedobject_21_4,
+        :detectedobject_21_5 ;
+    :occured_in :21 .
+
+:Object_detection_Image_22 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_22.jpg> ;
+    :contains :detectedobject_22_1,
+        :detectedobject_22_2,
+        :detectedobject_22_3 ;
+    :occured_in :22 .
+
+:Object_detection_Image_23 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_23.jpg> ;
+    :contains :detectedobject_23_1,
+        :detectedobject_23_2 ;
+    :occured_in :23 .
+
+:Object_detection_Image_24 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_24.jpg> ;
+    :contains :detectedobject_24_1,
+        :detectedobject_24_2,
+        :detectedobject_24_3,
+        :detectedobject_24_4,
+        :detectedobject_24_5 ;
+    :occured_in :24 .
+
+:Object_detection_Image_25 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_25.jpg> ;
+    :contains :detectedobject_25_1,
+        :detectedobject_25_2,
+        :detectedobject_25_3,
+        :detectedobject_25_4,
+        :detectedobject_25_5,
+        :detectedobject_25_6 ;
+    :occured_in :25 .
+
+:Object_detection_Image_26 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_26.jpg> ;
+    :contains :detectedobject_26_1,
+        :detectedobject_26_2,
+        :detectedobject_26_3,
+        :detectedobject_26_4,
+        :detectedobject_26_5,
+        :detectedobject_26_6,
+        :detectedobject_26_7 ;
+    :occured_in :26 .
+
+:Object_detection_Image_27 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_27.jpg> ;
+    :contains :detectedobject_27_1,
+        :detectedobject_27_2,
+        :detectedobject_27_3,
+        :detectedobject_27_4,
+        :detectedobject_27_5,
+        :detectedobject_27_6,
+        :detectedobject_27_7,
+        :detectedobject_27_8 ;
+    :occured_in :27 .
+
+:Object_detection_Image_28 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_28.jpg> ;
+    :contains :detectedobject_28_1,
+        :detectedobject_28_2,
+        :detectedobject_28_3,
+        :detectedobject_28_4,
+        :detectedobject_28_5,
+        :detectedobject_28_6,
+        :detectedobject_28_7,
+        :detectedobject_28_8 ;
+    :occured_in :28 .
+
+:Object_detection_Image_29 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_29.jpg> ;
+    :contains :detectedobject_29_1,
+        :detectedobject_29_10,
+        :detectedobject_29_11,
+        :detectedobject_29_12,
+        :detectedobject_29_2,
+        :detectedobject_29_3,
+        :detectedobject_29_4,
+        :detectedobject_29_5,
+        :detectedobject_29_6,
+        :detectedobject_29_7,
+        :detectedobject_29_8,
+        :detectedobject_29_9 ;
+    :occured_in :29 .
+
+:Object_detection_Image_3 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_3.jpg> ;
+    :contains :detectedobject_3_1,
+        :detectedobject_3_2,
+        :detectedobject_3_3,
+        :detectedobject_3_4,
+        :detectedobject_3_5,
+        :detectedobject_3_6 ;
+    :occured_in :3 .
+
+:Object_detection_Image_30 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_30.jpg> ;
+    :contains :detectedobject_30_1,
+        :detectedobject_30_10,
+        :detectedobject_30_11,
+        :detectedobject_30_12,
+        :detectedobject_30_2,
+        :detectedobject_30_3,
+        :detectedobject_30_4,
+        :detectedobject_30_5,
+        :detectedobject_30_6,
+        :detectedobject_30_7,
+        :detectedobject_30_8,
+        :detectedobject_30_9 ;
+    :occured_in :30 .
+
+:Object_detection_Image_31 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_31.jpg> ;
+    :contains :detectedobject_31_1,
+        :detectedobject_31_2,
+        :detectedobject_31_3,
+        :detectedobject_31_4,
+        :detectedobject_31_5,
+        :detectedobject_31_6,
+        :detectedobject_31_7,
+        :detectedobject_31_8,
+        :detectedobject_31_9 ;
+    :occured_in :31 .
+
+:Object_detection_Image_32 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_32.jpg> ;
+    :contains :detectedobject_32_1,
+        :detectedobject_32_10,
+        :detectedobject_32_2,
+        :detectedobject_32_3,
+        :detectedobject_32_4,
+        :detectedobject_32_5,
+        :detectedobject_32_6,
+        :detectedobject_32_7,
+        :detectedobject_32_8,
+        :detectedobject_32_9 ;
+    :occured_in :32 .
+
+:Object_detection_Image_33 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_33.jpg> ;
+    :contains :detectedobject_33_1,
+        :detectedobject_33_2,
+        :detectedobject_33_3,
+        :detectedobject_33_4,
+        :detectedobject_33_5,
+        :detectedobject_33_6,
+        :detectedobject_33_7,
+        :detectedobject_33_8,
+        :detectedobject_33_9 ;
+    :occured_in :33 .
+
+:Object_detection_Image_34 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_34.jpg> ;
+    :contains :detectedobject_34_1,
+        :detectedobject_34_10,
+        :detectedobject_34_2,
+        :detectedobject_34_3,
+        :detectedobject_34_4,
+        :detectedobject_34_5,
+        :detectedobject_34_6,
+        :detectedobject_34_7,
+        :detectedobject_34_8,
+        :detectedobject_34_9 ;
+    :occured_in :34 .
+
+:Object_detection_Image_35 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_35.jpg> ;
+    :contains :detectedobject_35_1,
+        :detectedobject_35_2,
+        :detectedobject_35_3,
+        :detectedobject_35_4,
+        :detectedobject_35_5,
+        :detectedobject_35_6,
+        :detectedobject_35_7,
+        :detectedobject_35_8 ;
+    :occured_in :35 .
+
+:Object_detection_Image_36 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_36.jpg> ;
+    :contains :detectedobject_36_1,
+        :detectedobject_36_2,
+        :detectedobject_36_3,
+        :detectedobject_36_4,
+        :detectedobject_36_5 ;
+    :occured_in :36 .
+
+:Object_detection_Image_37 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_37.jpg> ;
+    :contains :detectedobject_37_1,
+        :detectedobject_37_2,
+        :detectedobject_37_3,
+        :detectedobject_37_4,
+        :detectedobject_37_5,
+        :detectedobject_37_6,
+        :detectedobject_37_7,
+        :detectedobject_37_8 ;
+    :occured_in :37 .
+
+:Object_detection_Image_38 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_38.jpg> ;
+    :contains :detectedobject_38_1,
+        :detectedobject_38_2,
+        :detectedobject_38_3,
+        :detectedobject_38_4,
+        :detectedobject_38_5,
+        :detectedobject_38_6,
+        :detectedobject_38_7 ;
+    :occured_in :38 .
+
+:Object_detection_Image_39 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_39.jpg> ;
+    :contains :detectedobject_39_1,
+        :detectedobject_39_2,
+        :detectedobject_39_3,
+        :detectedobject_39_4,
+        :detectedobject_39_5,
+        :detectedobject_39_6,
+        :detectedobject_39_7 ;
+    :occured_in :39 .
+
+:Object_detection_Image_4 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_4.jpg> ;
+    :contains :detectedobject_4_1,
+        :detectedobject_4_2,
+        :detectedobject_4_3,
+        :detectedobject_4_4,
+        :detectedobject_4_5,
+        :detectedobject_4_6 ;
+    :occured_in :4 .
+
+:Object_detection_Image_40 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_40.jpg> ;
+    :contains :detectedobject_40_1,
+        :detectedobject_40_2,
+        :detectedobject_40_3,
+        :detectedobject_40_4,
+        :detectedobject_40_5,
+        :detectedobject_40_6 ;
+    :occured_in :40 .
+
+:Object_detection_Image_41 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_41.jpg> ;
+    :contains :detectedobject_41_1,
+        :detectedobject_41_2,
+        :detectedobject_41_3,
+        :detectedobject_41_4,
+        :detectedobject_41_5,
+        :detectedobject_41_6,
+        :detectedobject_41_7,
+        :detectedobject_41_8,
+        :detectedobject_41_9 ;
+    :occured_in :41 .
+
+:Object_detection_Image_42 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_42.jpg> ;
+    :contains :detectedobject_42_1,
+        :detectedobject_42_2,
+        :detectedobject_42_3,
+        :detectedobject_42_4,
+        :detectedobject_42_5,
+        :detectedobject_42_6,
+        :detectedobject_42_7,
+        :detectedobject_42_8 ;
+    :occured_in :42 .
+
+:Object_detection_Image_43 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_43.jpg> ;
+    :contains :detectedobject_43_1,
+        :detectedobject_43_2,
+        :detectedobject_43_3,
+        :detectedobject_43_4,
+        :detectedobject_43_5 ;
+    :occured_in :43 .
+
+:Object_detection_Image_44 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_44.jpg> ;
+    :contains :detectedobject_44_1,
+        :detectedobject_44_2,
+        :detectedobject_44_3,
+        :detectedobject_44_4,
+        :detectedobject_44_5,
+        :detectedobject_44_6 ;
+    :occured_in :44 .
+
+:Object_detection_Image_45 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_45.jpg> ;
+    :contains :detectedobject_45_1,
+        :detectedobject_45_2,
+        :detectedobject_45_3,
+        :detectedobject_45_4,
+        :detectedobject_45_5,
+        :detectedobject_45_6 ;
+    :occured_in :45 .
+
+:Object_detection_Image_46 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_46.jpg> ;
+    :contains :detectedobject_46_1 ;
+    :occured_in :46 .
+
+:Object_detection_Image_47 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_47.jpg> ;
+    :contains :detectedobject_47_1 ;
+    :occured_in :47 .
+
+:Object_detection_Image_48 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_48.jpg> ;
+    :contains :detectedobject_48_1,
+        :detectedobject_48_2,
+        :detectedobject_48_3,
+        :detectedobject_48_4,
+        :detectedobject_48_5,
+        :detectedobject_48_6,
+        :detectedobject_48_7,
+        :detectedobject_48_8 ;
+    :occured_in :48 .
+
+:Object_detection_Image_49 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_49.jpg> ;
+    :contains :detectedobject_49_1,
+        :detectedobject_49_2,
+        :detectedobject_49_3,
+        :detectedobject_49_4,
+        :detectedobject_49_5 ;
+    :occured_in :49 .
+
+:Object_detection_Image_5 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_5.jpg> ;
+    :contains :detectedobject_5_1,
+        :detectedobject_5_2,
+        :detectedobject_5_3,
+        :detectedobject_5_4,
+        :detectedobject_5_5,
+        :detectedobject_5_6 ;
+    :occured_in :5 .
+
+:Object_detection_Image_50 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_50.jpg> ;
+    :contains :detectedobject_50_1,
+        :detectedobject_50_2,
+        :detectedobject_50_3,
+        :detectedobject_50_4 ;
+    :occured_in :50 .
+
+:Object_detection_Image_51 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_51.jpg> ;
+    :contains :detectedobject_51_1,
+        :detectedobject_51_2,
+        :detectedobject_51_3,
+        :detectedobject_51_4,
+        :detectedobject_51_5,
+        :detectedobject_51_6 ;
+    :occured_in :51 .
+
+:Object_detection_Image_52 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_52.jpg> ;
+    :contains :detectedobject_52_1,
+        :detectedobject_52_2,
+        :detectedobject_52_3,
+        :detectedobject_52_4,
+        :detectedobject_52_5,
+        :detectedobject_52_6 ;
+    :occured_in :52 .
+
+:Object_detection_Image_53 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_53.jpg> ;
+    :contains :detectedobject_53_1,
+        :detectedobject_53_2,
+        :detectedobject_53_3,
+        :detectedobject_53_4,
+        :detectedobject_53_5 ;
+    :occured_in :53 .
+
+:Object_detection_Image_54 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_54.jpg> ;
+    :contains :detectedobject_54_1,
+        :detectedobject_54_2 ;
+    :occured_in :54 .
+
+:Object_detection_Image_55 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_55.jpg> ;
+    :contains :detectedobject_55_1,
+        :detectedobject_55_2,
+        :detectedobject_55_3,
+        :detectedobject_55_4 ;
+    :occured_in :55 .
+
+:Object_detection_Image_56 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_56.jpg> ;
+    :contains :detectedobject_56_1,
+        :detectedobject_56_2,
+        :detectedobject_56_3 ;
+    :occured_in :56 .
+
+:Object_detection_Image_57 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_57.jpg> ;
+    :contains :detectedobject_57_1,
+        :detectedobject_57_2,
+        :detectedobject_57_3,
+        :detectedobject_57_4 ;
+    :occured_in :57 .
+
+:Object_detection_Image_58 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_58.jpg> ;
+    :contains :detectedobject_58_1,
+        :detectedobject_58_2,
+        :detectedobject_58_3,
+        :detectedobject_58_4,
+        :detectedobject_58_5,
+        :detectedobject_58_6,
+        :detectedobject_58_7 ;
+    :occured_in :58 .
+
+:Object_detection_Image_59 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_59.jpg> ;
+    :contains :detectedobject_59_1,
+        :detectedobject_59_2,
+        :detectedobject_59_3,
+        :detectedobject_59_4,
+        :detectedobject_59_5,
+        :detectedobject_59_6,
+        :detectedobject_59_7 ;
+    :occured_in :59 .
+
+:Object_detection_Image_6 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_6.jpg> ;
+    :contains :detectedobject_6_1,
+        :detectedobject_6_2,
+        :detectedobject_6_3,
+        :detectedobject_6_4,
+        :detectedobject_6_5,
+        :detectedobject_6_6 ;
+    :occured_in :6 .
+
+:Object_detection_Image_60 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_60.jpg> ;
+    :contains :detectedobject_60_1,
+        :detectedobject_60_2,
+        :detectedobject_60_3,
+        :detectedobject_60_4,
+        :detectedobject_60_5,
+        :detectedobject_60_6,
+        :detectedobject_60_7,
+        :detectedobject_60_8 ;
+    :occured_in :60 .
+
+:Object_detection_Image_61 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_61.jpg> ;
+    :contains :detectedobject_61_1,
+        :detectedobject_61_2,
+        :detectedobject_61_3,
+        :detectedobject_61_4,
+        :detectedobject_61_5,
+        :detectedobject_61_6,
+        :detectedobject_61_7 ;
+    :occured_in :61 .
+
+:Object_detection_Image_62 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_62.jpg> ;
+    :contains :detectedobject_62_1,
+        :detectedobject_62_2,
+        :detectedobject_62_3,
+        :detectedobject_62_4,
+        :detectedobject_62_5,
+        :detectedobject_62_6,
+        :detectedobject_62_7,
+        :detectedobject_62_8,
+        :detectedobject_62_9 ;
+    :occured_in :62 .
+
+:Object_detection_Image_63 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_63.jpg> ;
+    :contains :detectedobject_63_1,
+        :detectedobject_63_2,
+        :detectedobject_63_3,
+        :detectedobject_63_4,
+        :detectedobject_63_5,
+        :detectedobject_63_6,
+        :detectedobject_63_7,
+        :detectedobject_63_8,
+        :detectedobject_63_9 ;
+    :occured_in :63 .
+
+:Object_detection_Image_64 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_64.jpg> ;
+    :contains :detectedobject_64_1,
+        :detectedobject_64_10,
+        :detectedobject_64_2,
+        :detectedobject_64_3,
+        :detectedobject_64_4,
+        :detectedobject_64_5,
+        :detectedobject_64_6,
+        :detectedobject_64_7,
+        :detectedobject_64_8,
+        :detectedobject_64_9 ;
+    :occured_in :64 .
+
+:Object_detection_Image_65 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_65.jpg> ;
+    :contains :detectedobject_65_1,
+        :detectedobject_65_2,
+        :detectedobject_65_3,
+        :detectedobject_65_4,
+        :detectedobject_65_5,
+        :detectedobject_65_6,
+        :detectedobject_65_7,
+        :detectedobject_65_8,
+        :detectedobject_65_9 ;
+    :occured_in :65 .
+
+:Object_detection_Image_66 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_66.jpg> ;
+    :contains :detectedobject_66_1,
+        :detectedobject_66_10,
+        :detectedobject_66_11,
+        :detectedobject_66_2,
+        :detectedobject_66_3,
+        :detectedobject_66_4,
+        :detectedobject_66_5,
+        :detectedobject_66_6,
+        :detectedobject_66_7,
+        :detectedobject_66_8,
+        :detectedobject_66_9 ;
+    :occured_in :66 .
+
+:Object_detection_Image_67 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_67.jpg> ;
+    :contains :detectedobject_67_1,
+        :detectedobject_67_10,
+        :detectedobject_67_11,
+        :detectedobject_67_2,
+        :detectedobject_67_3,
+        :detectedobject_67_4,
+        :detectedobject_67_5,
+        :detectedobject_67_6,
+        :detectedobject_67_7,
+        :detectedobject_67_8,
+        :detectedobject_67_9 ;
+    :occured_in :67 .
+
+:Object_detection_Image_68 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_68.jpg> ;
+    :contains :detectedobject_68_1,
+        :detectedobject_68_10,
+        :detectedobject_68_11,
+        :detectedobject_68_12,
+        :detectedobject_68_13,
+        :detectedobject_68_2,
+        :detectedobject_68_3,
+        :detectedobject_68_4,
+        :detectedobject_68_5,
+        :detectedobject_68_6,
+        :detectedobject_68_7,
+        :detectedobject_68_8,
+        :detectedobject_68_9 ;
+    :occured_in :68 .
+
+:Object_detection_Image_69 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_69.jpg> ;
+    :contains :detectedobject_69_1,
+        :detectedobject_69_10,
+        :detectedobject_69_11,
+        :detectedobject_69_12,
+        :detectedobject_69_2,
+        :detectedobject_69_3,
+        :detectedobject_69_4,
+        :detectedobject_69_5,
+        :detectedobject_69_6,
+        :detectedobject_69_7,
+        :detectedobject_69_8,
+        :detectedobject_69_9 ;
+    :occured_in :69 .
+
+:Object_detection_Image_7 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_7.jpg> ;
+    :contains :detectedobject_7_1,
+        :detectedobject_7_2,
+        :detectedobject_7_3,
+        :detectedobject_7_4,
+        :detectedobject_7_5,
+        :detectedobject_7_6,
+        :detectedobject_7_7,
+        :detectedobject_7_8 ;
+    :occured_in :7 .
+
+:Object_detection_Image_70 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_70.jpg> ;
+    :contains :detectedobject_70_1,
+        :detectedobject_70_10,
+        :detectedobject_70_11,
+        :detectedobject_70_12,
+        :detectedobject_70_2,
+        :detectedobject_70_3,
+        :detectedobject_70_4,
+        :detectedobject_70_5,
+        :detectedobject_70_6,
+        :detectedobject_70_7,
+        :detectedobject_70_8,
+        :detectedobject_70_9 ;
+    :occured_in :70 .
+
+:Object_detection_Image_71 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_71.jpg> ;
+    :contains :detectedobject_71_1,
+        :detectedobject_71_10,
+        :detectedobject_71_11,
+        :detectedobject_71_12,
+        :detectedobject_71_13,
+        :detectedobject_71_14,
+        :detectedobject_71_2,
+        :detectedobject_71_3,
+        :detectedobject_71_4,
+        :detectedobject_71_5,
+        :detectedobject_71_6,
+        :detectedobject_71_7,
+        :detectedobject_71_8,
+        :detectedobject_71_9 ;
+    :occured_in :71 .
+
+:Object_detection_Image_72 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_72.jpg> ;
+    :contains :detectedobject_72_1,
+        :detectedobject_72_10,
+        :detectedobject_72_11,
+        :detectedobject_72_12,
+        :detectedobject_72_13,
+        :detectedobject_72_14,
+        :detectedobject_72_2,
+        :detectedobject_72_3,
+        :detectedobject_72_4,
+        :detectedobject_72_5,
+        :detectedobject_72_6,
+        :detectedobject_72_7,
+        :detectedobject_72_8,
+        :detectedobject_72_9 ;
+    :occured_in :72 .
+
+:Object_detection_Image_73 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_73.jpg> ;
+    :contains :detectedobject_73_1,
+        :detectedobject_73_2,
+        :detectedobject_73_3,
+        :detectedobject_73_4,
+        :detectedobject_73_5,
+        :detectedobject_73_6,
+        :detectedobject_73_7,
+        :detectedobject_73_8,
+        :detectedobject_73_9 ;
+    :occured_in :73 .
+
+:Object_detection_Image_74 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_74.jpg> ;
+    :contains :detectedobject_74_1,
+        :detectedobject_74_2,
+        :detectedobject_74_3,
+        :detectedobject_74_4,
+        :detectedobject_74_5,
+        :detectedobject_74_6,
+        :detectedobject_74_7 ;
+    :occured_in :74 .
+
+:Object_detection_Image_75 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_75.jpg> ;
+    :contains :detectedobject_75_1,
+        :detectedobject_75_2,
+        :detectedobject_75_3,
+        :detectedobject_75_4,
+        :detectedobject_75_5,
+        :detectedobject_75_6,
+        :detectedobject_75_7,
+        :detectedobject_75_8,
+        :detectedobject_75_9 ;
+    :occured_in :75 .
+
+:Object_detection_Image_76 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_76.jpg> ;
+    :contains :detectedobject_76_1,
+        :detectedobject_76_2,
+        :detectedobject_76_3,
+        :detectedobject_76_4,
+        :detectedobject_76_5,
+        :detectedobject_76_6,
+        :detectedobject_76_7,
+        :detectedobject_76_8 ;
+    :occured_in :76 .
+
+:Object_detection_Image_77 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_77.jpg> ;
+    :contains :detectedobject_77_1,
+        :detectedobject_77_2,
+        :detectedobject_77_3,
+        :detectedobject_77_4,
+        :detectedobject_77_5,
+        :detectedobject_77_6 ;
+    :occured_in :77 .
+
+:Object_detection_Image_78 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_78.jpg> ;
+    :contains :detectedobject_78_1,
+        :detectedobject_78_2,
+        :detectedobject_78_3,
+        :detectedobject_78_4,
+        :detectedobject_78_5,
+        :detectedobject_78_6 ;
+    :occured_in :78 .
+
+:Object_detection_Image_79 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_79.jpg> ;
+    :contains :detectedobject_79_1,
+        :detectedobject_79_2,
+        :detectedobject_79_3,
+        :detectedobject_79_4 ;
+    :occured_in :79 .
+
+:Object_detection_Image_8 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_8.jpg> ;
+    :contains :detectedobject_8_1,
+        :detectedobject_8_2,
+        :detectedobject_8_3,
+        :detectedobject_8_4,
+        :detectedobject_8_5,
+        :detectedobject_8_6,
+        :detectedobject_8_7 ;
+    :occured_in :8 .
+
+:Object_detection_Image_80 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_80.jpg> ;
+    :contains :detectedobject_80_1,
+        :detectedobject_80_2 ;
+    :occured_in :80 .
+
+:Object_detection_Image_81 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_81.jpg> ;
+    :contains :detectedobject_81_1,
+        :detectedobject_81_2,
+        :detectedobject_81_3 ;
+    :occured_in :81 .
+
+:Object_detection_Image_82 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_82.jpg> ;
+    :contains :detectedobject_82_1,
+        :detectedobject_82_2,
+        :detectedobject_82_3,
+        :detectedobject_82_4,
+        :detectedobject_82_5,
+        :detectedobject_82_6,
+        :detectedobject_82_7 ;
+    :occured_in :82 .
+
+:Object_detection_Image_83 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_83.jpg> ;
+    :contains :detectedobject_83_1,
+        :detectedobject_83_2,
+        :detectedobject_83_3,
+        :detectedobject_83_4,
+        :detectedobject_83_5,
+        :detectedobject_83_6,
+        :detectedobject_83_7,
+        :detectedobject_83_8 ;
+    :occured_in :83 .
+
+:Object_detection_Image_84 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_84.jpg> ;
+    :contains :detectedobject_84_1,
+        :detectedobject_84_2,
+        :detectedobject_84_3,
+        :detectedobject_84_4,
+        :detectedobject_84_5,
+        :detectedobject_84_6,
+        :detectedobject_84_7,
+        :detectedobject_84_8 ;
+    :occured_in :84 .
+
+:Object_detection_Image_85 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_85.jpg> ;
+    :contains :detectedobject_85_1,
+        :detectedobject_85_2,
+        :detectedobject_85_3,
+        :detectedobject_85_4,
+        :detectedobject_85_5 ;
+    :occured_in :85 .
+
+:Object_detection_Image_86 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_86.jpg> ;
+    :contains :detectedobject_86_1,
+        :detectedobject_86_2,
+        :detectedobject_86_3,
+        :detectedobject_86_4,
+        :detectedobject_86_5 ;
+    :occured_in :86 .
+
+:Object_detection_Image_87 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_87.jpg> ;
+    :contains :detectedobject_87_1,
+        :detectedobject_87_2,
+        :detectedobject_87_3,
+        :detectedobject_87_4,
+        :detectedobject_87_5,
+        :detectedobject_87_6,
+        :detectedobject_87_7,
+        :detectedobject_87_8 ;
+    :occured_in :87 .
+
+:Object_detection_Image_88 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_88.jpg> ;
+    :contains :detectedobject_88_1,
+        :detectedobject_88_2,
+        :detectedobject_88_3,
+        :detectedobject_88_4,
+        :detectedobject_88_5,
+        :detectedobject_88_6,
+        :detectedobject_88_7,
+        :detectedobject_88_8 ;
+    :occured_in :88 .
+
+:Object_detection_Image_89 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_89.jpg> ;
+    :contains :detectedobject_89_1,
+        :detectedobject_89_2,
+        :detectedobject_89_3,
+        :detectedobject_89_4,
+        :detectedobject_89_5 ;
+    :occured_in :89 .
+
+:Object_detection_Image_9 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_9.jpg> ;
+    :contains :detectedobject_9_1,
+        :detectedobject_9_2,
+        :detectedobject_9_3,
+        :detectedobject_9_4,
+        :detectedobject_9_5,
+        :detectedobject_9_6,
+        :detectedobject_9_7,
+        :detectedobject_9_8,
+        :detectedobject_9_9 ;
+    :occured_in :9 .
+
+:Object_detection_Image_90 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_90.jpg> ;
+    :contains :detectedobject_90_1,
+        :detectedobject_90_2,
+        :detectedobject_90_3,
+        :detectedobject_90_4,
+        :detectedobject_90_5,
+        :detectedobject_90_6 ;
+    :occured_in :90 .
+
+:Object_detection_Image_91 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_91.jpg> ;
+    :contains :detectedobject_91_1,
+        :detectedobject_91_2,
+        :detectedobject_91_3,
+        :detectedobject_91_4,
+        :detectedobject_91_5,
+        :detectedobject_91_6,
+        :detectedobject_91_7,
+        :detectedobject_91_8,
+        :detectedobject_91_9 ;
+    :occured_in :91 .
+
+:Object_detection_Image_92 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_92.jpg> ;
+    :contains :detectedobject_92_1,
+        :detectedobject_92_2,
+        :detectedobject_92_3,
+        :detectedobject_92_4,
+        :detectedobject_92_5 ;
+    :occured_in :92 .
+
+:Object_detection_Image_93 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_93.jpg> ;
+    :contains :detectedobject_93_1,
+        :detectedobject_93_2,
+        :detectedobject_93_3,
+        :detectedobject_93_4,
+        :detectedobject_93_5 ;
+    :occured_in :93 .
+
+:Object_detection_Image_94 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_94.jpg> ;
+    :contains :detectedobject_94_1,
+        :detectedobject_94_2,
+        :detectedobject_94_3,
+        :detectedobject_94_4,
+        :detectedobject_94_5,
+        :detectedobject_94_6 ;
+    :occured_in :94 .
+
+:Object_detection_Image_95 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_95.jpg> ;
+    :contains :detectedobject_95_1,
+        :detectedobject_95_2,
+        :detectedobject_95_3,
+        :detectedobject_95_4,
+        :detectedobject_95_5,
+        :detectedobject_95_6,
+        :detectedobject_95_7 ;
+    :occured_in :95 .
+
+:Object_detection_Image_96 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_96.jpg> ;
+    :contains :detectedobject_96_1,
+        :detectedobject_96_10,
+        :detectedobject_96_2,
+        :detectedobject_96_3,
+        :detectedobject_96_4,
+        :detectedobject_96_5,
+        :detectedobject_96_6,
+        :detectedobject_96_7,
+        :detectedobject_96_8,
+        :detectedobject_96_9 ;
+    :occured_in :96 .
+
+:Object_detection_Image_97 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_97.jpg> ;
+    :contains :detectedobject_97_1,
+        :detectedobject_97_2,
+        :detectedobject_97_3,
+        :detectedobject_97_4,
+        :detectedobject_97_5,
+        :detectedobject_97_6 ;
+    :occured_in :97 .
+
+:Object_detection_Image_98 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_98.jpg> ;
+    :contains :detectedobject_98_1,
+        :detectedobject_98_2,
+        :detectedobject_98_3,
+        :detectedobject_98_4,
+        :detectedobject_98_5,
+        :detectedobject_98_6,
+        :detectedobject_98_7,
+        :detectedobject_98_8 ;
+    :occured_in :98 .
+
+:Object_detection_Image_99 a :Object_detection_Image ;
+    ns1:image <./Output/Object_detection_image_99.jpg> ;
+    :contains :detectedobject_99_1,
+        :detectedobject_99_10,
+        :detectedobject_99_11,
+        :detectedobject_99_2,
+        :detectedobject_99_3,
+        :detectedobject_99_4,
+        :detectedobject_99_5,
+        :detectedobject_99_6,
+        :detectedobject_99_7,
+        :detectedobject_99_8,
+        :detectedobject_99_9 ;
+    :occured_in :99 .
+
+:Process a owl:Class .
+
+:detectedobject_100_1 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :638 ;
+    :is_located_at_y :510 .
+
+:detectedobject_100_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :843 ;
+    :is_located_at_y :206 .
+
+:detectedobject_100_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :965 ;
+    :is_located_at_y :201 .
+
+:detectedobject_100_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :736 ;
+    :is_located_at_y :209 .
+
+:detectedobject_100_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :938 ;
+    :is_located_at_y :317 .
+
+:detectedobject_100_6 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1055 ;
+    :is_located_at_y :361 .
+
+:detectedobject_101_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :255 ;
+    :is_located_at_y :647 .
+
+:detectedobject_101_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :799 ;
+    :is_located_at_y :141 .
+
+:detectedobject_101_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :958 ;
+    :is_located_at_y :139 .
+
+:detectedobject_101_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :661 ;
+    :is_located_at_y :148 .
+
+:detectedobject_101_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1454 ;
+    :is_located_at_y :170 .
+
+:detectedobject_101_6 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :838 ;
+    :is_located_at_y :296 .
+
+:detectedobject_101_7 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :383 ;
+    :is_located_at_y :321 .
+
+:detectedobject_101_8 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1059 ;
+    :is_located_at_y :349 .
+
+:detectedobject_101_9 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1369 ;
+    :is_located_at_y :338 .
+
+:detectedobject_10_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1227 ;
+    :is_located_at_y :426 .
+
+:detectedobject_10_10 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :103 ;
+    :is_located_at_y :506 .
+
+:detectedobject_10_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1441 ;
+    :is_located_at_y :419 .
+
+:detectedobject_10_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :401 ;
+    :is_located_at_y :468 .
+
+:detectedobject_10_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :903 ;
+    :is_located_at_y :459 .
+
+:detectedobject_10_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :638 ;
+    :is_located_at_y :288 .
+
+:detectedobject_10_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1266 ;
+    :is_located_at_y :432 .
+
+:detectedobject_10_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1445 ;
+    :is_located_at_y :420 .
+
+:detectedobject_10_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :399 ;
+    :is_located_at_y :471 .
+
+:detectedobject_10_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :899 ;
+    :is_located_at_y :458 .
+
+:detectedobject_11_1 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1299 ;
+    :is_located_at_y :406 .
+
+:detectedobject_11_10 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :866 ;
+    :is_located_at_y :466 .
+
+:detectedobject_11_11 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :387 ;
+    :is_located_at_y :491 .
+
+:detectedobject_11_12 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :216 ;
+    :is_located_at_y :512 .
+
+:detectedobject_11_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1876 ;
+    :is_located_at_y :401 .
+
+:detectedobject_11_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :988 ;
+    :is_located_at_y :436 .
+
+:detectedobject_11_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :859 ;
+    :is_located_at_y :466 .
+
+:detectedobject_11_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :214 ;
+    :is_located_at_y :512 .
+
+:detectedobject_11_6 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :653 ;
+    :is_located_at_y :279 .
+
+:detectedobject_11_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1879 ;
+    :is_located_at_y :408 .
+
+:detectedobject_11_8 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :106 ;
+    :is_located_at_y :432 .
+
+:detectedobject_11_9 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :654 ;
+    :is_located_at_y :466 .
+
+:detectedobject_12_1 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :270 ;
+    :is_located_at_y :511 .
+
+:detectedobject_12_2 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1450 ;
+    :is_located_at_y :430 .
+
+:detectedobject_12_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1765 ;
+    :is_located_at_y :449 .
+
+:detectedobject_12_4 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :282 ;
+    :is_located_at_y :506 .
+
+:detectedobject_12_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :631 ;
+    :is_located_at_y :261 .
+
+:detectedobject_13_1 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1208 ;
+    :is_located_at_y :460 .
+
+:detectedobject_13_2 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1439 ;
+    :is_located_at_y :429 .
+
+:detectedobject_13_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :501 ;
+    :is_located_at_y :251 .
+
+:detectedobject_13_4 a :detectedobject ;
+    :haslabel :person ;
+    :is_located_at_x :563 ;
+    :is_located_at_y :472 .
+
+:detectedobject_13_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :173 ;
+    :is_located_at_y :507 .
+
+:detectedobject_14_1 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1343 ;
+    :is_located_at_y :470 .
+
+:detectedobject_14_2 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1347 ;
+    :is_located_at_y :467 .
+
+:detectedobject_14_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :67 ;
+    :is_located_at_y :549 .
+
+:detectedobject_15_1 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1314 ;
+    :is_located_at_y :484 .
+
+:detectedobject_15_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :166 ;
+    :is_located_at_y :593 .
+
+:detectedobject_15_3 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1341 ;
+    :is_located_at_y :482 .
+
+:detectedobject_15_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :156 ;
+    :is_located_at_y :592 .
+
+:detectedobject_15_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :362 ;
+    :is_located_at_y :287 .
+
+:detectedobject_16_1 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1340 ;
+    :is_located_at_y :491 .
+
+:detectedobject_16_2 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1346 ;
+    :is_located_at_y :490 .
+
+:detectedobject_16_3 a :detectedobject ;
+    :haslabel :person ;
+    :is_located_at_x :423 ;
+    :is_located_at_y :545 .
+
+:detectedobject_16_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :33 ;
+    :is_located_at_y :573 .
+
+:detectedobject_17_1 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1339 ;
+    :is_located_at_y :491 .
+
+:detectedobject_17_2 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1346 ;
+    :is_located_at_y :490 .
+
+:detectedobject_17_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :351 ;
+    :is_located_at_y :299 .
+
+:detectedobject_17_4 a :detectedobject ;
+    :haslabel :person ;
+    :is_located_at_x :420 ;
+    :is_located_at_y :546 .
+
+:detectedobject_17_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :33 ;
+    :is_located_at_y :574 .
+
+:detectedobject_18_1 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1364 ;
+    :is_located_at_y :491 .
+
+:detectedobject_18_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :348 ;
+    :is_located_at_y :301 .
+
+:detectedobject_18_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :575 ;
+    :is_located_at_y :473 .
+
+:detectedobject_18_4 a :detectedobject ;
+    :haslabel :person ;
+    :is_located_at_x :420 ;
+    :is_located_at_y :546 .
+
+:detectedobject_18_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :32 ;
+    :is_located_at_y :573 .
+
+:detectedobject_19_1 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1374 ;
+    :is_located_at_y :491 .
+
+:detectedobject_19_2 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :573 ;
+    :is_located_at_y :536 .
+
+:detectedobject_19_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :343 ;
+    :is_located_at_y :301 .
+
+:detectedobject_19_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1903 ;
+    :is_located_at_y :487 .
+
+:detectedobject_19_5 a :detectedobject ;
+    :haslabel :person ;
+    :is_located_at_x :415 ;
+    :is_located_at_y :547 .
+
+:detectedobject_19_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :30 ;
+    :is_located_at_y :574 .
+
+:detectedobject_1_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1010 ;
+    :is_located_at_y :336 .
+
+:detectedobject_1_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :833 ;
+    :is_located_at_y :450 .
+
+:detectedobject_1_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :895 ;
+    :is_located_at_y :451 .
+
+:detectedobject_1_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1022 ;
+    :is_located_at_y :450 .
+
+:detectedobject_1_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :536 ;
+    :is_located_at_y :468 .
+
+:detectedobject_1_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :238 ;
+    :is_located_at_y :480 .
+
+:detectedobject_20_1 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1346 ;
+    :is_located_at_y :492 .
+
+:detectedobject_20_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1789 ;
+    :is_located_at_y :485 .
+
+:detectedobject_20_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :131 ;
+    :is_located_at_y :586 .
+
+:detectedobject_20_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :342 ;
+    :is_located_at_y :301 .
+
+:detectedobject_20_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :572 ;
+    :is_located_at_y :474 .
+
+:detectedobject_20_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1789 ;
+    :is_located_at_y :484 .
+
+:detectedobject_20_7 a :detectedobject ;
+    :haslabel :person ;
+    :is_located_at_x :413 ;
+    :is_located_at_y :548 .
+
+:detectedobject_21_1 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1316 ;
+    :is_located_at_y :506 .
+
+:detectedobject_21_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :343 ;
+    :is_located_at_y :709 .
+
+:detectedobject_21_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1100 ;
+    :is_located_at_y :254 .
+
+:detectedobject_21_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :310 ;
+    :is_located_at_y :306 .
+
+:detectedobject_21_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :542 ;
+    :is_located_at_y :483 .
+
+:detectedobject_22_1 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1118 ;
+    :is_located_at_y :518 .
+
+:detectedobject_22_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :902 ;
+    :is_located_at_y :238 .
+
+:detectedobject_22_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :325 ;
+    :is_located_at_y :483 .
+
+:detectedobject_23_1 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :426 ;
+    :is_located_at_y :570 .
+
+:detectedobject_23_2 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1204 ;
+    :is_located_at_y :515 .
+
+:detectedobject_24_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :825 ;
+    :is_located_at_y :451 .
+
+:detectedobject_24_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :900 ;
+    :is_located_at_y :445 .
+
+:detectedobject_24_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :944 ;
+    :is_located_at_y :445 .
+
+:detectedobject_24_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :273 ;
+    :is_located_at_y :496 .
+
+:detectedobject_24_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :54 ;
+    :is_located_at_y :507 .
+
+:detectedobject_25_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :802 ;
+    :is_located_at_y :451 .
+
+:detectedobject_25_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :836 ;
+    :is_located_at_y :445 .
+
+:detectedobject_25_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :863 ;
+    :is_located_at_y :440 .
+
+:detectedobject_25_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :904 ;
+    :is_located_at_y :438 .
+
+:detectedobject_25_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1026 ;
+    :is_located_at_y :442 .
+
+:detectedobject_25_6 a :detectedobject ;
+    :haslabel :person ;
+    :is_located_at_x :1261 ;
+    :is_located_at_y :449 .
+
+:detectedobject_26_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :753 ;
+    :is_located_at_y :450 .
+
+:detectedobject_26_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :790 ;
+    :is_located_at_y :446 .
+
+:detectedobject_26_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :833 ;
+    :is_located_at_y :441 .
+
+:detectedobject_26_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :863 ;
+    :is_located_at_y :441 .
+
+:detectedobject_26_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :977 ;
+    :is_located_at_y :445 .
+
+:detectedobject_26_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :677 ;
+    :is_located_at_y :466 .
+
+:detectedobject_26_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1026 ;
+    :is_located_at_y :460 .
+
+:detectedobject_27_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :762 ;
+    :is_located_at_y :450 .
+
+:detectedobject_27_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :791 ;
+    :is_located_at_y :447 .
+
+:detectedobject_27_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :828 ;
+    :is_located_at_y :445 .
+
+:detectedobject_27_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :867 ;
+    :is_located_at_y :444 .
+
+:detectedobject_27_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :981 ;
+    :is_located_at_y :447 .
+
+:detectedobject_27_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :721 ;
+    :is_located_at_y :464 .
+
+:detectedobject_27_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1048 ;
+    :is_located_at_y :468 .
+
+:detectedobject_27_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :632 ;
+    :is_located_at_y :480 .
+
+:detectedobject_28_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :756 ;
+    :is_located_at_y :451 .
+
+:detectedobject_28_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :797 ;
+    :is_located_at_y :449 .
+
+:detectedobject_28_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :833 ;
+    :is_located_at_y :445 .
+
+:detectedobject_28_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :864 ;
+    :is_located_at_y :444 .
+
+:detectedobject_28_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :989 ;
+    :is_located_at_y :446 .
+
+:detectedobject_28_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :708 ;
+    :is_located_at_y :471 .
+
+:detectedobject_28_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :577 ;
+    :is_located_at_y :488 .
+
+:detectedobject_28_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1075 ;
+    :is_located_at_y :482 .
+
+:detectedobject_29_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :384 ;
+    :is_located_at_y :524 .
+
+:detectedobject_29_10 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1112 ;
+    :is_located_at_y :462 .
+
+:detectedobject_29_11 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :281 ;
+    :is_located_at_y :489 .
+
+:detectedobject_29_12 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :160 ;
+    :is_located_at_y :502 .
+
+:detectedobject_29_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :908 ;
+    :is_located_at_y :431 .
+
+:detectedobject_29_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :940 ;
+    :is_located_at_y :426 .
+
+:detectedobject_29_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :971 ;
+    :is_located_at_y :427 .
+
+:detectedobject_29_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :749 ;
+    :is_located_at_y :451 .
+
+:detectedobject_29_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :796 ;
+    :is_located_at_y :446 .
+
+:detectedobject_29_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :866 ;
+    :is_located_at_y :439 .
+
+:detectedobject_29_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :563 ;
+    :is_located_at_y :462 .
+
+:detectedobject_29_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :694 ;
+    :is_located_at_y :471 .
+
+:detectedobject_2_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1010 ;
+    :is_located_at_y :336 .
+
+:detectedobject_2_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :833 ;
+    :is_located_at_y :450 .
+
+:detectedobject_2_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :895 ;
+    :is_located_at_y :451 .
+
+:detectedobject_2_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1022 ;
+    :is_located_at_y :450 .
+
+:detectedobject_2_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :535 ;
+    :is_located_at_y :468 .
+
+:detectedobject_2_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :238 ;
+    :is_located_at_y :480 .
+
+:detectedobject_30_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1172 ;
+    :is_located_at_y :472 .
+
+:detectedobject_30_10 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :695 ;
+    :is_located_at_y :481 .
+
+:detectedobject_30_11 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :200 ;
+    :is_located_at_y :513 .
+
+:detectedobject_30_12 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :83 ;
+    :is_located_at_y :531 .
+
+:detectedobject_30_2 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1187 ;
+    :is_located_at_y :474 .
+
+:detectedobject_30_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :363 ;
+    :is_located_at_y :544 .
+
+:detectedobject_30_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :941 ;
+    :is_located_at_y :429 .
+
+:detectedobject_30_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :977 ;
+    :is_located_at_y :429 .
+
+:detectedobject_30_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :802 ;
+    :is_located_at_y :453 .
+
+:detectedobject_30_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :867 ;
+    :is_located_at_y :442 .
+
+:detectedobject_30_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :902 ;
+    :is_located_at_y :439 .
+
+:detectedobject_30_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :755 ;
+    :is_located_at_y :462 .
+
+:detectedobject_31_1 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1616 ;
+    :is_located_at_y :682 .
+
+:detectedobject_31_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :358 ;
+    :is_located_at_y :543 .
+
+:detectedobject_31_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :400 ;
+    :is_located_at_y :307 .
+
+:detectedobject_31_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :946 ;
+    :is_located_at_y :448 .
+
+:detectedobject_31_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1281 ;
+    :is_located_at_y :447 .
+
+:detectedobject_31_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :788 ;
+    :is_located_at_y :467 .
+
+:detectedobject_31_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :842 ;
+    :is_located_at_y :463 .
+
+:detectedobject_31_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :716 ;
+    :is_located_at_y :487 .
+
+:detectedobject_31_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :196 ;
+    :is_located_at_y :512 .
+
+:detectedobject_32_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :351 ;
+    :is_located_at_y :533 .
+
+:detectedobject_32_10 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :61 ;
+    :is_located_at_y :521 .
+
+:detectedobject_32_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :279 ;
+    :is_located_at_y :275 .
+
+:detectedobject_32_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :840 ;
+    :is_located_at_y :449 .
+
+:detectedobject_32_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :873 ;
+    :is_located_at_y :444 .
+
+:detectedobject_32_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :934 ;
+    :is_located_at_y :438 .
+
+:detectedobject_32_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1320 ;
+    :is_located_at_y :439 .
+
+:detectedobject_32_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :783 ;
+    :is_located_at_y :460 .
+
+:detectedobject_32_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :131 ;
+    :is_located_at_y :491 .
+
+:detectedobject_32_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :708 ;
+    :is_located_at_y :480 .
+
+:detectedobject_33_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :350 ;
+    :is_located_at_y :535 .
+
+:detectedobject_33_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :114 ;
+    :is_located_at_y :246 .
+
+:detectedobject_33_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :495 ;
+    :is_located_at_y :234 .
+
+:detectedobject_33_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :866 ;
+    :is_located_at_y :287 .
+
+:detectedobject_33_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :936 ;
+    :is_located_at_y :431 .
+
+:detectedobject_33_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1393 ;
+    :is_located_at_y :431 .
+
+:detectedobject_33_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :839 ;
+    :is_located_at_y :446 .
+
+:detectedobject_33_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :788 ;
+    :is_located_at_y :461 .
+
+:detectedobject_33_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :715 ;
+    :is_located_at_y :479 .
+
+:detectedobject_34_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :388 ;
+    :is_located_at_y :535 .
+
+:detectedobject_34_10 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :782 ;
+    :is_located_at_y :462 .
+
+:detectedobject_34_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :807 ;
+    :is_located_at_y :237 .
+
+:detectedobject_34_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :908 ;
+    :is_located_at_y :432 .
+
+:detectedobject_34_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :947 ;
+    :is_located_at_y :428 .
+
+:detectedobject_34_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :787 ;
+    :is_located_at_y :448 .
+
+:detectedobject_34_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :829 ;
+    :is_located_at_y :442 .
+
+:detectedobject_34_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :866 ;
+    :is_located_at_y :439 .
+
+:detectedobject_34_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1715 ;
+    :is_located_at_y :439 .
+
+:detectedobject_34_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :721 ;
+    :is_located_at_y :475 .
+
+:detectedobject_35_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1678 ;
+    :is_located_at_y :452 .
+
+:detectedobject_35_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :395 ;
+    :is_located_at_y :545 .
+
+:detectedobject_35_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :903 ;
+    :is_located_at_y :428 .
+
+:detectedobject_35_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :941 ;
+    :is_located_at_y :423 .
+
+:detectedobject_35_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :785 ;
+    :is_located_at_y :446 .
+
+:detectedobject_35_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :826 ;
+    :is_located_at_y :438 .
+
+:detectedobject_35_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :727 ;
+    :is_located_at_y :470 .
+
+:detectedobject_35_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :133 ;
+    :is_located_at_y :529 .
+
+:detectedobject_36_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :553 ;
+    :is_located_at_y :495 .
+
+:detectedobject_36_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :877 ;
+    :is_located_at_y :432 .
+
+:detectedobject_36_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :787 ;
+    :is_located_at_y :447 .
+
+:detectedobject_36_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :824 ;
+    :is_located_at_y :441 .
+
+:detectedobject_36_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :559 ;
+    :is_located_at_y :494 .
+
+:detectedobject_37_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :547 ;
+    :is_located_at_y :501 .
+
+:detectedobject_37_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :968 ;
+    :is_located_at_y :429 .
+
+:detectedobject_37_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :796 ;
+    :is_located_at_y :448 .
+
+:detectedobject_37_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :869 ;
+    :is_located_at_y :440 .
+
+:detectedobject_37_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :895 ;
+    :is_located_at_y :438 .
+
+:detectedobject_37_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :768 ;
+    :is_located_at_y :462 .
+
+:detectedobject_37_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :548 ;
+    :is_located_at_y :495 .
+
+:detectedobject_37_8 a :detectedobject ;
+    :haslabel :fire_hydrant ;
+    :is_located_at_x :1497 ;
+    :is_located_at_y :566 .
+
+:detectedobject_38_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :525 ;
+    :is_located_at_y :489 .
+
+:detectedobject_38_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :795 ;
+    :is_located_at_y :430 .
+
+:detectedobject_38_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :860 ;
+    :is_located_at_y :427 .
+
+:detectedobject_38_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :904 ;
+    :is_located_at_y :425 .
+
+:detectedobject_38_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :972 ;
+    :is_located_at_y :419 .
+
+:detectedobject_38_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :763 ;
+    :is_located_at_y :446 .
+
+:detectedobject_38_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :529 ;
+    :is_located_at_y :491 .
+
+:detectedobject_39_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :560 ;
+    :is_located_at_y :488 .
+
+:detectedobject_39_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :790 ;
+    :is_located_at_y :451 .
+
+:detectedobject_39_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :825 ;
+    :is_located_at_y :444 .
+
+:detectedobject_39_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :865 ;
+    :is_located_at_y :438 .
+
+:detectedobject_39_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :941 ;
+    :is_located_at_y :438 .
+
+:detectedobject_39_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1007 ;
+    :is_located_at_y :440 .
+
+:detectedobject_39_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :562 ;
+    :is_located_at_y :492 .
+
+:detectedobject_3_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1010 ;
+    :is_located_at_y :336 .
+
+:detectedobject_3_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :833 ;
+    :is_located_at_y :450 .
+
+:detectedobject_3_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :895 ;
+    :is_located_at_y :451 .
+
+:detectedobject_3_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1022 ;
+    :is_located_at_y :450 .
+
+:detectedobject_3_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :535 ;
+    :is_located_at_y :468 .
+
+:detectedobject_3_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :238 ;
+    :is_located_at_y :480 .
+
+:detectedobject_40_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :974 ;
+    :is_located_at_y :432 .
+
+:detectedobject_40_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :836 ;
+    :is_located_at_y :447 .
+
+:detectedobject_40_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :875 ;
+    :is_located_at_y :447 .
+
+:detectedobject_40_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :897 ;
+    :is_located_at_y :445 .
+
+:detectedobject_40_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :355 ;
+    :is_located_at_y :487 .
+
+:detectedobject_40_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :638 ;
+    :is_located_at_y :482 .
+
+:detectedobject_41_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :266 ;
+    :is_located_at_y :520 .
+
+:detectedobject_41_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1021 ;
+    :is_located_at_y :357 .
+
+:detectedobject_41_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1056 ;
+    :is_located_at_y :432 .
+
+:detectedobject_41_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1098 ;
+    :is_located_at_y :424 .
+
+:detectedobject_41_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :831 ;
+    :is_located_at_y :447 .
+
+:detectedobject_41_6 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :882 ;
+    :is_located_at_y :452 .
+
+:detectedobject_41_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :540 ;
+    :is_located_at_y :472 .
+
+:detectedobject_41_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :612 ;
+    :is_located_at_y :470 .
+
+:detectedobject_41_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :266 ;
+    :is_located_at_y :513 .
+
+:detectedobject_42_1 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :241 ;
+    :is_located_at_y :503 .
+
+:detectedobject_42_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :51 ;
+    :is_located_at_y :558 .
+
+:detectedobject_42_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :829 ;
+    :is_located_at_y :246 .
+
+:detectedobject_42_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :970 ;
+    :is_located_at_y :244 .
+
+:detectedobject_42_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1282 ;
+    :is_located_at_y :281 .
+
+:detectedobject_42_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :933 ;
+    :is_located_at_y :430 .
+
+:detectedobject_42_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :867 ;
+    :is_located_at_y :454 .
+
+:detectedobject_42_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :80 ;
+    :is_located_at_y :506 .
+
+:detectedobject_43_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :598 ;
+    :is_located_at_y :97 .
+
+:detectedobject_43_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :867 ;
+    :is_located_at_y :89 .
+
+:detectedobject_43_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :802 ;
+    :is_located_at_y :446 .
+
+:detectedobject_43_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :854 ;
+    :is_located_at_y :455 .
+
+:detectedobject_43_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :241 ;
+    :is_located_at_y :482 .
+
+:detectedobject_44_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :795 ;
+    :is_located_at_y :372 .
+
+:detectedobject_44_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :787 ;
+    :is_located_at_y :450 .
+
+:detectedobject_44_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :820 ;
+    :is_located_at_y :452 .
+
+:detectedobject_44_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :471 ;
+    :is_located_at_y :469 .
+
+:detectedobject_44_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :868 ;
+    :is_located_at_y :458 .
+
+:detectedobject_44_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :17 ;
+    :is_located_at_y :507 .
+
+:detectedobject_45_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :779 ;
+    :is_located_at_y :359 .
+
+:detectedobject_45_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :753 ;
+    :is_located_at_y :443 .
+
+:detectedobject_45_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :796 ;
+    :is_located_at_y :445 .
+
+:detectedobject_45_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :820 ;
+    :is_located_at_y :446 .
+
+:detectedobject_45_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :868 ;
+    :is_located_at_y :444 .
+
+:detectedobject_45_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :171 ;
+    :is_located_at_y :484 .
+
+:detectedobject_46_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :607 ;
+    :is_located_at_y :444 .
+
+:detectedobject_47_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :607 ;
+    :is_located_at_y :444 .
+
+:detectedobject_48_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :287 ;
+    :is_located_at_y :522 .
+
+:detectedobject_48_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :527 ;
+    :is_located_at_y :139 .
+
+:detectedobject_48_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :283 ;
+    :is_located_at_y :161 .
+
+:detectedobject_48_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :763 ;
+    :is_located_at_y :148 .
+
+:detectedobject_48_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1269 ;
+    :is_located_at_y :314 .
+
+:detectedobject_48_6 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1267 ;
+    :is_located_at_y :385 .
+
+:detectedobject_48_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1012 ;
+    :is_located_at_y :460 .
+
+:detectedobject_48_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :288 ;
+    :is_located_at_y :527 .
+
+:detectedobject_49_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :865 ;
+    :is_located_at_y :431 .
+
+:detectedobject_49_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :902 ;
+    :is_located_at_y :425 .
+
+:detectedobject_49_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :940 ;
+    :is_located_at_y :424 .
+
+:detectedobject_49_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1041 ;
+    :is_located_at_y :445 .
+
+:detectedobject_49_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1100 ;
+    :is_located_at_y :470 .
+
+:detectedobject_4_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1010 ;
+    :is_located_at_y :336 .
+
+:detectedobject_4_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :833 ;
+    :is_located_at_y :450 .
+
+:detectedobject_4_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :895 ;
+    :is_located_at_y :451 .
+
+:detectedobject_4_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1022 ;
+    :is_located_at_y :450 .
+
+:detectedobject_4_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :535 ;
+    :is_located_at_y :468 .
+
+:detectedobject_4_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :238 ;
+    :is_located_at_y :480 .
+
+:detectedobject_50_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1161 ;
+    :is_located_at_y :479 .
+
+:detectedobject_50_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :869 ;
+    :is_located_at_y :432 .
+
+:detectedobject_50_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1046 ;
+    :is_located_at_y :451 .
+
+:detectedobject_50_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1160 ;
+    :is_located_at_y :471 .
+
+:detectedobject_51_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1298 ;
+    :is_located_at_y :521 .
+
+:detectedobject_51_2 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1295 ;
+    :is_located_at_y :520 .
+
+:detectedobject_51_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :869 ;
+    :is_located_at_y :430 .
+
+:detectedobject_51_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :939 ;
+    :is_located_at_y :425 .
+
+:detectedobject_51_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1063 ;
+    :is_located_at_y :465 .
+
+:detectedobject_51_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1155 ;
+    :is_located_at_y :488 .
+
+:detectedobject_52_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1298 ;
+    :is_located_at_y :521 .
+
+:detectedobject_52_2 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1295 ;
+    :is_located_at_y :520 .
+
+:detectedobject_52_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :869 ;
+    :is_located_at_y :430 .
+
+:detectedobject_52_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :939 ;
+    :is_located_at_y :425 .
+
+:detectedobject_52_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1063 ;
+    :is_located_at_y :465 .
+
+:detectedobject_52_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1155 ;
+    :is_located_at_y :488 .
+
+:detectedobject_53_1 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1748 ;
+    :is_located_at_y :423 .
+
+:detectedobject_53_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :874 ;
+    :is_located_at_y :433 .
+
+:detectedobject_53_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :939 ;
+    :is_located_at_y :431 .
+
+:detectedobject_53_4 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1751 ;
+    :is_located_at_y :424 .
+
+:detectedobject_53_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :783 ;
+    :is_located_at_y :439 .
+
+:detectedobject_54_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :872 ;
+    :is_located_at_y :431 .
+
+:detectedobject_54_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :743 ;
+    :is_located_at_y :440 .
+
+:detectedobject_55_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1070 ;
+    :is_located_at_y :514 .
+
+:detectedobject_55_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :171 ;
+    :is_located_at_y :588 .
+
+:detectedobject_55_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :470 ;
+    :is_located_at_y :609 .
+
+:detectedobject_55_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :169 ;
+    :is_located_at_y :593 .
+
+:detectedobject_56_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :985 ;
+    :is_located_at_y :341 .
+
+:detectedobject_56_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1061 ;
+    :is_located_at_y :345 .
+
+:detectedobject_56_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1006 ;
+    :is_located_at_y :439 .
+
+:detectedobject_57_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :831 ;
+    :is_located_at_y :329 .
+
+:detectedobject_57_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :911 ;
+    :is_located_at_y :329 .
+
+:detectedobject_57_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :860 ;
+    :is_located_at_y :428 .
+
+:detectedobject_57_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :854 ;
+    :is_located_at_y :439 .
+
+:detectedobject_58_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :288 ;
+    :is_located_at_y :29 .
+
+:detectedobject_58_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :847 ;
+    :is_located_at_y :193 .
+
+:detectedobject_58_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :686 ;
+    :is_located_at_y :232 .
+
+:detectedobject_58_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1344 ;
+    :is_located_at_y :235 .
+
+:detectedobject_58_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1112 ;
+    :is_located_at_y :326 .
+
+:detectedobject_58_6 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :231 ;
+    :is_located_at_y :358 .
+
+:detectedobject_58_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :697 ;
+    :is_located_at_y :432 .
+
+:detectedobject_59_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :819 ;
+    :is_located_at_y :160 .
+
+:detectedobject_59_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1488 ;
+    :is_located_at_y :171 .
+
+:detectedobject_59_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :636 ;
+    :is_located_at_y :199 .
+
+:detectedobject_59_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :129 ;
+    :is_located_at_y :347 .
+
+:detectedobject_59_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :722 ;
+    :is_located_at_y :407 .
+
+:detectedobject_59_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :786 ;
+    :is_located_at_y :402 .
+
+:detectedobject_59_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :651 ;
+    :is_located_at_y :438 .
+
+:detectedobject_5_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1010 ;
+    :is_located_at_y :336 .
+
+:detectedobject_5_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :833 ;
+    :is_located_at_y :450 .
+
+:detectedobject_5_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :895 ;
+    :is_located_at_y :451 .
+
+:detectedobject_5_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1022 ;
+    :is_located_at_y :450 .
+
+:detectedobject_5_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :535 ;
+    :is_located_at_y :468 .
+
+:detectedobject_5_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :238 ;
+    :is_located_at_y :480 .
+
+:detectedobject_60_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :610 ;
+    :is_located_at_y :182 .
+
+:detectedobject_60_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :53 ;
+    :is_located_at_y :348 .
+
+:detectedobject_60_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :720 ;
+    :is_located_at_y :412 .
+
+:detectedobject_60_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :764 ;
+    :is_located_at_y :408 .
+
+:detectedobject_60_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :781 ;
+    :is_located_at_y :406 .
+
+:detectedobject_60_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :870 ;
+    :is_located_at_y :398 .
+
+:detectedobject_60_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :896 ;
+    :is_located_at_y :397 .
+
+:detectedobject_60_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :631 ;
+    :is_located_at_y :442 .
+
+:detectedobject_61_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :611 ;
+    :is_located_at_y :465 .
+
+:detectedobject_61_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :586 ;
+    :is_located_at_y :169 .
+
+:detectedobject_61_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1229 ;
+    :is_located_at_y :276 .
+
+:detectedobject_61_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1228 ;
+    :is_located_at_y :346 .
+
+:detectedobject_61_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :901 ;
+    :is_located_at_y :410 .
+
+:detectedobject_61_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :753 ;
+    :is_located_at_y :423 .
+
+:detectedobject_61_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :612 ;
+    :is_located_at_y :465 .
+
+:detectedobject_62_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :610 ;
+    :is_located_at_y :473 .
+
+:detectedobject_62_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :828 ;
+    :is_located_at_y :115 .
+
+:detectedobject_62_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :585 ;
+    :is_located_at_y :171 .
+
+:detectedobject_62_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1239 ;
+    :is_located_at_y :275 .
+
+:detectedobject_62_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1239 ;
+    :is_located_at_y :349 .
+
+:detectedobject_62_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :871 ;
+    :is_located_at_y :421 .
+
+:detectedobject_62_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :902 ;
+    :is_located_at_y :419 .
+
+:detectedobject_62_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :722 ;
+    :is_located_at_y :438 .
+
+:detectedobject_62_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :613 ;
+    :is_located_at_y :473 .
+
+:detectedobject_63_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :610 ;
+    :is_located_at_y :473 .
+
+:detectedobject_63_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :828 ;
+    :is_located_at_y :114 .
+
+:detectedobject_63_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :585 ;
+    :is_located_at_y :171 .
+
+:detectedobject_63_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1239 ;
+    :is_located_at_y :279 .
+
+:detectedobject_63_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1238 ;
+    :is_located_at_y :350 .
+
+:detectedobject_63_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :871 ;
+    :is_located_at_y :421 .
+
+:detectedobject_63_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :901 ;
+    :is_located_at_y :418 .
+
+:detectedobject_63_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :721 ;
+    :is_located_at_y :437 .
+
+:detectedobject_63_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :614 ;
+    :is_located_at_y :473 .
+
+:detectedobject_64_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :611 ;
+    :is_located_at_y :480 .
+
+:detectedobject_64_10 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :610 ;
+    :is_located_at_y :484 .
+
+:detectedobject_64_2 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :117 ;
+    :is_located_at_y :564 .
+
+:detectedobject_64_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :828 ;
+    :is_located_at_y :129 .
+
+:detectedobject_64_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :584 ;
+    :is_located_at_y :180 .
+
+:detectedobject_64_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1239 ;
+    :is_located_at_y :281 .
+
+:detectedobject_64_6 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1239 ;
+    :is_located_at_y :359 .
+
+:detectedobject_64_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :869 ;
+    :is_located_at_y :431 .
+
+:detectedobject_64_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :905 ;
+    :is_located_at_y :426 .
+
+:detectedobject_64_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :749 ;
+    :is_located_at_y :443 .
+
+:detectedobject_65_1 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :504 ;
+    :is_located_at_y :547 .
+
+:detectedobject_65_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :827 ;
+    :is_located_at_y :129 .
+
+:detectedobject_65_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :584 ;
+    :is_located_at_y :180 .
+
+:detectedobject_65_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1239 ;
+    :is_located_at_y :281 .
+
+:detectedobject_65_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :359 .
+
+:detectedobject_65_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :861 ;
+    :is_located_at_y :431 .
+
+:detectedobject_65_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :907 ;
+    :is_located_at_y :427 .
+
+:detectedobject_65_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :726 ;
+    :is_located_at_y :447 .
+
+:detectedobject_65_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :749 ;
+    :is_located_at_y :444 .
+
+:detectedobject_66_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1017 ;
+    :is_located_at_y :536 .
+
+:detectedobject_66_10 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :503 ;
+    :is_located_at_y :489 .
+
+:detectedobject_66_11 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :609 ;
+    :is_located_at_y :483 .
+
+:detectedobject_66_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :605 ;
+    :is_located_at_y :482 .
+
+:detectedobject_66_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :828 ;
+    :is_located_at_y :129 .
+
+:detectedobject_66_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :584 ;
+    :is_located_at_y :180 .
+
+:detectedobject_66_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1239 ;
+    :is_located_at_y :281 .
+
+:detectedobject_66_6 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :359 .
+
+:detectedobject_66_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :728 ;
+    :is_located_at_y :450 .
+
+:detectedobject_66_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :790 ;
+    :is_located_at_y :444 .
+
+:detectedobject_66_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :890 ;
+    :is_located_at_y :448 .
+
+:detectedobject_67_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :347 ;
+    :is_located_at_y :594 .
+
+:detectedobject_67_10 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :490 ;
+    :is_located_at_y :468 .
+
+:detectedobject_67_11 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :609 ;
+    :is_located_at_y :480 .
+
+:detectedobject_67_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :612 ;
+    :is_located_at_y :481 .
+
+:detectedobject_67_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :828 ;
+    :is_located_at_y :129 .
+
+:detectedobject_67_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :584 ;
+    :is_located_at_y :180 .
+
+:detectedobject_67_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :281 .
+
+:detectedobject_67_6 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :359 .
+
+:detectedobject_67_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :696 ;
+    :is_located_at_y :452 .
+
+:detectedobject_67_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :757 ;
+    :is_located_at_y :447 .
+
+:detectedobject_67_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :896 ;
+    :is_located_at_y :443 .
+
+:detectedobject_68_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :438 ;
+    :is_located_at_y :490 .
+
+:detectedobject_68_10 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :744 ;
+    :is_located_at_y :446 .
+
+:detectedobject_68_11 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :449 ;
+    :is_located_at_y :489 .
+
+:detectedobject_68_12 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :612 ;
+    :is_located_at_y :484 .
+
+:detectedobject_68_13 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :280 ;
+    :is_located_at_y :513 .
+
+:detectedobject_68_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :607 ;
+    :is_located_at_y :483 .
+
+:detectedobject_68_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :280 ;
+    :is_located_at_y :513 .
+
+:detectedobject_68_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :828 ;
+    :is_located_at_y :129 .
+
+:detectedobject_68_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :584 ;
+    :is_located_at_y :180 .
+
+:detectedobject_68_6 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :281 .
+
+:detectedobject_68_7 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :359 .
+
+:detectedobject_68_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :914 ;
+    :is_located_at_y :431 .
+
+:detectedobject_68_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :694 ;
+    :is_located_at_y :450 .
+
+:detectedobject_69_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :435 ;
+    :is_located_at_y :492 .
+
+:detectedobject_69_10 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :435 ;
+    :is_located_at_y :490 .
+
+:detectedobject_69_11 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :614 ;
+    :is_located_at_y :483 .
+
+:detectedobject_69_12 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :280 ;
+    :is_located_at_y :513 .
+
+:detectedobject_69_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :612 ;
+    :is_located_at_y :480 .
+
+:detectedobject_69_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :279 ;
+    :is_located_at_y :512 .
+
+:detectedobject_69_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :828 ;
+    :is_located_at_y :129 .
+
+:detectedobject_69_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :584 ;
+    :is_located_at_y :180 .
+
+:detectedobject_69_6 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :281 .
+
+:detectedobject_69_7 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :359 .
+
+:detectedobject_69_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :935 ;
+    :is_located_at_y :428 .
+
+:detectedobject_69_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :752 ;
+    :is_located_at_y :441 .
+
+:detectedobject_6_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1010 ;
+    :is_located_at_y :336 .
+
+:detectedobject_6_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :833 ;
+    :is_located_at_y :450 .
+
+:detectedobject_6_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :895 ;
+    :is_located_at_y :451 .
+
+:detectedobject_6_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1022 ;
+    :is_located_at_y :450 .
+
+:detectedobject_6_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :535 ;
+    :is_located_at_y :468 .
+
+:detectedobject_6_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :238 ;
+    :is_located_at_y :480 .
+
+:detectedobject_70_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :435 ;
+    :is_located_at_y :491 .
+
+:detectedobject_70_10 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :434 ;
+    :is_located_at_y :490 .
+
+:detectedobject_70_11 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :608 ;
+    :is_located_at_y :482 .
+
+:detectedobject_70_12 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :280 ;
+    :is_located_at_y :513 .
+
+:detectedobject_70_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :607 ;
+    :is_located_at_y :481 .
+
+:detectedobject_70_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :280 ;
+    :is_located_at_y :512 .
+
+:detectedobject_70_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :830 ;
+    :is_located_at_y :129 .
+
+:detectedobject_70_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :584 ;
+    :is_located_at_y :180 .
+
+:detectedobject_70_6 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :281 .
+
+:detectedobject_70_7 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1239 ;
+    :is_located_at_y :359 .
+
+:detectedobject_70_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :940 ;
+    :is_located_at_y :427 .
+
+:detectedobject_70_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :754 ;
+    :is_located_at_y :441 .
+
+:detectedobject_71_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :432 ;
+    :is_located_at_y :491 .
+
+:detectedobject_71_10 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :752 ;
+    :is_located_at_y :441 .
+
+:detectedobject_71_11 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :431 ;
+    :is_located_at_y :490 .
+
+:detectedobject_71_12 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :533 ;
+    :is_located_at_y :482 .
+
+:detectedobject_71_13 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :604 ;
+    :is_located_at_y :482 .
+
+:detectedobject_71_14 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :280 ;
+    :is_located_at_y :513 .
+
+:detectedobject_71_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :601 ;
+    :is_located_at_y :482 .
+
+:detectedobject_71_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :279 ;
+    :is_located_at_y :513 .
+
+:detectedobject_71_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :830 ;
+    :is_located_at_y :129 .
+
+:detectedobject_71_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :584 ;
+    :is_located_at_y :179 .
+
+:detectedobject_71_6 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :281 .
+
+:detectedobject_71_7 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :359 .
+
+:detectedobject_71_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :944 ;
+    :is_located_at_y :425 .
+
+:detectedobject_71_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :720 ;
+    :is_located_at_y :445 .
+
+:detectedobject_72_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1002 ;
+    :is_located_at_y :475 .
+
+:detectedobject_72_10 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :748 ;
+    :is_located_at_y :445 .
+
+:detectedobject_72_11 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :872 ;
+    :is_located_at_y :443 .
+
+:detectedobject_72_12 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1007 ;
+    :is_located_at_y :473 .
+
+:detectedobject_72_13 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :131 ;
+    :is_located_at_y :536 .
+
+:detectedobject_72_14 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :12 ;
+    :is_located_at_y :590 .
+
+:detectedobject_72_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :355 ;
+    :is_located_at_y :512 .
+
+:detectedobject_72_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :601 ;
+    :is_located_at_y :503 .
+
+:detectedobject_72_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :125 ;
+    :is_located_at_y :543 .
+
+:detectedobject_72_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :829 ;
+    :is_located_at_y :129 .
+
+:detectedobject_72_6 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :584 ;
+    :is_located_at_y :180 .
+
+:detectedobject_72_7 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :281 .
+
+:detectedobject_72_8 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :359 .
+
+:detectedobject_72_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :728 ;
+    :is_located_at_y :448 .
+
+:detectedobject_73_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :729 ;
+    :is_located_at_y :493 .
+
+:detectedobject_73_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :211 ;
+    :is_located_at_y :543 .
+
+:detectedobject_73_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :830 ;
+    :is_located_at_y :129 .
+
+:detectedobject_73_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :584 ;
+    :is_located_at_y :180 .
+
+:detectedobject_73_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :281 .
+
+:detectedobject_73_6 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :359 .
+
+:detectedobject_73_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :877 ;
+    :is_located_at_y :441 .
+
+:detectedobject_73_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :945 ;
+    :is_located_at_y :470 .
+
+:detectedobject_73_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :9 ;
+    :is_located_at_y :571 .
+
+:detectedobject_74_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1109 ;
+    :is_located_at_y :509 .
+
+:detectedobject_74_2 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :64 ;
+    :is_located_at_y :571 .
+
+:detectedobject_74_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :830 ;
+    :is_located_at_y :129 .
+
+:detectedobject_74_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :584 ;
+    :is_located_at_y :180 .
+
+:detectedobject_74_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :281 .
+
+:detectedobject_74_6 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :360 .
+
+:detectedobject_74_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :748 ;
+    :is_located_at_y :444 .
+
+:detectedobject_75_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1696 ;
+    :is_located_at_y :487 .
+
+:detectedobject_75_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1688 ;
+    :is_located_at_y :488 .
+
+:detectedobject_75_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :830 ;
+    :is_located_at_y :129 .
+
+:detectedobject_75_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :584 ;
+    :is_located_at_y :180 .
+
+:detectedobject_75_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :281 .
+
+:detectedobject_75_6 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :359 .
+
+:detectedobject_75_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :747 ;
+    :is_located_at_y :444 .
+
+:detectedobject_75_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :953 ;
+    :is_located_at_y :450 .
+
+:detectedobject_75_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :500 ;
+    :is_located_at_y :482 .
+
+:detectedobject_76_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :830 ;
+    :is_located_at_y :129 .
+
+:detectedobject_76_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :584 ;
+    :is_located_at_y :180 .
+
+:detectedobject_76_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1239 ;
+    :is_located_at_y :281 .
+
+:detectedobject_76_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1239 ;
+    :is_located_at_y :359 .
+
+:detectedobject_76_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :912 ;
+    :is_located_at_y :430 .
+
+:detectedobject_76_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :975 ;
+    :is_located_at_y :426 .
+
+:detectedobject_76_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :747 ;
+    :is_located_at_y :444 .
+
+:detectedobject_76_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :964 ;
+    :is_located_at_y :439 .
+
+:detectedobject_77_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :830 ;
+    :is_located_at_y :129 .
+
+:detectedobject_77_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :584 ;
+    :is_located_at_y :180 .
+
+:detectedobject_77_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1240 ;
+    :is_located_at_y :281 .
+
+:detectedobject_77_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1239 ;
+    :is_located_at_y :359 .
+
+:detectedobject_77_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :975 ;
+    :is_located_at_y :428 .
+
+:detectedobject_77_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :747 ;
+    :is_located_at_y :444 .
+
+:detectedobject_78_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :824 ;
+    :is_located_at_y :130 .
+
+:detectedobject_78_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :584 ;
+    :is_located_at_y :180 .
+
+:detectedobject_78_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1241 ;
+    :is_located_at_y :304 .
+
+:detectedobject_78_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :942 ;
+    :is_located_at_y :428 .
+
+:detectedobject_78_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :979 ;
+    :is_located_at_y :424 .
+
+:detectedobject_78_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :748 ;
+    :is_located_at_y :444 .
+
+:detectedobject_79_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :825 ;
+    :is_located_at_y :152 .
+
+:detectedobject_79_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :583 ;
+    :is_located_at_y :204 .
+
+:detectedobject_79_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :979 ;
+    :is_located_at_y :451 .
+
+:detectedobject_79_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :750 ;
+    :is_located_at_y :473 .
+
+:detectedobject_7_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :638 ;
+    :is_located_at_y :244 .
+
+:detectedobject_7_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :993 ;
+    :is_located_at_y :315 .
+
+:detectedobject_7_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1200 ;
+    :is_located_at_y :430 .
+
+:detectedobject_7_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :634 ;
+    :is_located_at_y :448 .
+
+:detectedobject_7_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :809 ;
+    :is_located_at_y :448 .
+
+:detectedobject_7_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :192 ;
+    :is_located_at_y :462 .
+
+:detectedobject_7_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :413 ;
+    :is_located_at_y :459 .
+
+:detectedobject_7_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :522 ;
+    :is_located_at_y :474 .
+
+:detectedobject_80_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :771 ;
+    :is_located_at_y :106 .
+
+:detectedobject_80_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :711 ;
+    :is_located_at_y :494 .
+
+:detectedobject_81_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :729 ;
+    :is_located_at_y :36 .
+
+:detectedobject_81_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :360 ;
+    :is_located_at_y :85 .
+
+:detectedobject_81_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :686 ;
+    :is_located_at_y :486 .
+
+:detectedobject_82_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :875 ;
+    :is_located_at_y :448 .
+
+:detectedobject_82_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :902 ;
+    :is_located_at_y :445 .
+
+:detectedobject_82_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :939 ;
+    :is_located_at_y :443 .
+
+:detectedobject_82_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1047 ;
+    :is_located_at_y :453 .
+
+:detectedobject_82_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :787 ;
+    :is_located_at_y :460 .
+
+:detectedobject_82_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :569 ;
+    :is_located_at_y :488 .
+
+:detectedobject_82_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :642 ;
+    :is_located_at_y :480 .
+
+:detectedobject_83_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :941 ;
+    :is_located_at_y :428 .
+
+:detectedobject_83_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :974 ;
+    :is_located_at_y :429 .
+
+:detectedobject_83_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :763 ;
+    :is_located_at_y :451 .
+
+:detectedobject_83_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :876 ;
+    :is_located_at_y :438 .
+
+:detectedobject_83_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1078 ;
+    :is_located_at_y :448 .
+
+:detectedobject_83_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :611 ;
+    :is_located_at_y :473 .
+
+:detectedobject_83_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :642 ;
+    :is_located_at_y :465 .
+
+:detectedobject_83_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :522 ;
+    :is_located_at_y :481 .
+
+:detectedobject_84_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :939 ;
+    :is_located_at_y :427 .
+
+:detectedobject_84_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :976 ;
+    :is_located_at_y :427 .
+
+:detectedobject_84_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1092 ;
+    :is_located_at_y :453 .
+
+:detectedobject_84_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1116 ;
+    :is_located_at_y :451 .
+
+:detectedobject_84_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :634 ;
+    :is_located_at_y :470 .
+
+:detectedobject_84_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :732 ;
+    :is_located_at_y :462 .
+
+:detectedobject_84_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :464 ;
+    :is_located_at_y :491 .
+
+:detectedobject_84_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :568 ;
+    :is_located_at_y :482 .
+
+:detectedobject_85_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :975 ;
+    :is_located_at_y :427 .
+
+:detectedobject_85_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :656 ;
+    :is_located_at_y :474 .
+
+:detectedobject_85_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1153 ;
+    :is_located_at_y :467 .
+
+:detectedobject_85_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :526 ;
+    :is_located_at_y :489 .
+
+:detectedobject_85_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :366 ;
+    :is_located_at_y :511 .
+
+:detectedobject_86_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :429 ;
+    :is_located_at_y :507 .
+
+:detectedobject_86_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :197 ;
+    :is_located_at_y :542 .
+
+:detectedobject_86_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :938 ;
+    :is_located_at_y :428 .
+
+:detectedobject_86_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :433 ;
+    :is_located_at_y :509 .
+
+:detectedobject_86_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :202 ;
+    :is_located_at_y :535 .
+
+:detectedobject_87_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1560 ;
+    :is_located_at_y :621 .
+
+:detectedobject_87_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1726 ;
+    :is_located_at_y :723 .
+
+:detectedobject_87_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1381 ;
+    :is_located_at_y :559 .
+
+:detectedobject_87_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1533 ;
+    :is_located_at_y :613 .
+
+:detectedobject_87_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1740 ;
+    :is_located_at_y :734 .
+
+:detectedobject_87_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :904 ;
+    :is_located_at_y :443 .
+
+:detectedobject_87_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :943 ;
+    :is_located_at_y :440 .
+
+:detectedobject_87_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :41 ;
+    :is_located_at_y :528 .
+
+:detectedobject_88_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1559 ;
+    :is_located_at_y :621 .
+
+:detectedobject_88_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1727 ;
+    :is_located_at_y :723 .
+
+:detectedobject_88_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1381 ;
+    :is_located_at_y :558 .
+
+:detectedobject_88_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1533 ;
+    :is_located_at_y :612 .
+
+:detectedobject_88_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1740 ;
+    :is_located_at_y :734 .
+
+:detectedobject_88_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :905 ;
+    :is_located_at_y :443 .
+
+:detectedobject_88_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :942 ;
+    :is_located_at_y :440 .
+
+:detectedobject_88_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :41 ;
+    :is_located_at_y :528 .
+
+:detectedobject_89_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :803 ;
+    :is_located_at_y :287 .
+
+:detectedobject_89_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :952 ;
+    :is_located_at_y :364 .
+
+:detectedobject_89_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :379 ;
+    :is_located_at_y :390 .
+
+:detectedobject_89_4 a :detectedobject ;
+    :haslabel :bus ;
+    :is_located_at_x :574 ;
+    :is_located_at_y :430 .
+
+:detectedobject_89_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :676 ;
+    :is_located_at_y :430 .
+
+:detectedobject_8_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :860 ;
+    :is_located_at_y :306 .
+
+:detectedobject_8_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :580 ;
+    :is_located_at_y :453 .
+
+:detectedobject_8_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1079 ;
+    :is_located_at_y :442 .
+
+:detectedobject_8_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :192 ;
+    :is_located_at_y :466 .
+
+:detectedobject_8_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :386 ;
+    :is_located_at_y :464 .
+
+:detectedobject_8_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :54 ;
+    :is_located_at_y :480 .
+
+:detectedobject_8_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :410 ;
+    :is_located_at_y :493 .
+
+:detectedobject_90_1 a :detectedobject ;
+    :haslabel :bus ;
+    :is_located_at_x :359 ;
+    :is_located_at_y :465 .
+
+:detectedobject_90_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :832 ;
+    :is_located_at_y :219 .
+
+:detectedobject_90_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1112 ;
+    :is_located_at_y :340 .
+
+:detectedobject_90_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1191 ;
+    :is_located_at_y :368 .
+
+:detectedobject_90_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :133 ;
+    :is_located_at_y :402 .
+
+:detectedobject_90_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :530 ;
+    :is_located_at_y :474 .
+
+:detectedobject_91_1 a :detectedobject ;
+    :haslabel :bus ;
+    :is_located_at_x :173 ;
+    :is_located_at_y :527 .
+
+:detectedobject_91_2 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :549 ;
+    :is_located_at_y :478 .
+
+:detectedobject_91_3 a :detectedobject ;
+    :haslabel :bus ;
+    :is_located_at_x :155 ;
+    :is_located_at_y :523 .
+
+:detectedobject_91_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :817 ;
+    :is_located_at_y :199 .
+
+:detectedobject_91_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :599 ;
+    :is_located_at_y :225 .
+
+:detectedobject_91_6 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1167 ;
+    :is_located_at_y :359 .
+
+:detectedobject_91_7 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1282 ;
+    :is_located_at_y :396 .
+
+:detectedobject_91_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :867 ;
+    :is_located_at_y :464 .
+
+:detectedobject_91_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :383 ;
+    :is_located_at_y :536 .
+
+:detectedobject_92_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :751 ;
+    :is_located_at_y :449 .
+
+:detectedobject_92_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :868 ;
+    :is_located_at_y :443 .
+
+:detectedobject_92_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :694 ;
+    :is_located_at_y :462 .
+
+:detectedobject_92_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :238 ;
+    :is_located_at_y :509 .
+
+:detectedobject_92_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :312 ;
+    :is_located_at_y :508 .
+
+:detectedobject_93_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :729 ;
+    :is_located_at_y :452 .
+
+:detectedobject_93_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :798 ;
+    :is_located_at_y :451 .
+
+:detectedobject_93_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :904 ;
+    :is_located_at_y :445 .
+
+:detectedobject_93_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :646 ;
+    :is_located_at_y :471 .
+
+:detectedobject_93_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :719 ;
+    :is_located_at_y :461 .
+
+:detectedobject_94_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :721 ;
+    :is_located_at_y :452 .
+
+:detectedobject_94_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :802 ;
+    :is_located_at_y :451 .
+
+:detectedobject_94_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :907 ;
+    :is_located_at_y :441 .
+
+:detectedobject_94_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :608 ;
+    :is_located_at_y :471 .
+
+:detectedobject_94_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :686 ;
+    :is_located_at_y :466 .
+
+:detectedobject_94_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :580 ;
+    :is_located_at_y :484 .
+
+:detectedobject_95_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :935 ;
+    :is_located_at_y :430 .
+
+:detectedobject_95_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :714 ;
+    :is_located_at_y :448 .
+
+:detectedobject_95_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :799 ;
+    :is_located_at_y :443 .
+
+:detectedobject_95_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :822 ;
+    :is_located_at_y :439 .
+
+:detectedobject_95_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :576 ;
+    :is_located_at_y :471 .
+
+:detectedobject_95_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :676 ;
+    :is_located_at_y :460 .
+
+:detectedobject_95_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :525 ;
+    :is_located_at_y :483 .
+
+:detectedobject_96_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :289 ;
+    :is_located_at_y :484 .
+
+:detectedobject_96_10 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :153 ;
+    :is_located_at_y :514 .
+
+:detectedobject_96_2 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :154 ;
+    :is_located_at_y :511 .
+
+:detectedobject_96_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :802 ;
+    :is_located_at_y :430 .
+
+:detectedobject_96_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :826 ;
+    :is_located_at_y :429 .
+
+:detectedobject_96_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :908 ;
+    :is_located_at_y :429 .
+
+:detectedobject_96_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :564 ;
+    :is_located_at_y :454 .
+
+:detectedobject_96_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :644 ;
+    :is_located_at_y :446 .
+
+:detectedobject_96_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :1370 ;
+    :is_located_at_y :449 .
+
+:detectedobject_96_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :289 ;
+    :is_located_at_y :486 .
+
+:detectedobject_97_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :913 ;
+    :is_located_at_y :349 .
+
+:detectedobject_97_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1007 ;
+    :is_located_at_y :399 .
+
+:detectedobject_97_3 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :909 ;
+    :is_located_at_y :442 .
+
+:detectedobject_97_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :560 ;
+    :is_located_at_y :473 .
+
+:detectedobject_97_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :474 ;
+    :is_located_at_y :488 .
+
+:detectedobject_97_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :227 ;
+    :is_located_at_y :524 .
+
+:detectedobject_98_1 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :453 ;
+    :is_located_at_y :234 .
+
+:detectedobject_98_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :758 ;
+    :is_located_at_y :268 .
+
+:detectedobject_98_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :835 ;
+    :is_located_at_y :265 .
+
+:detectedobject_98_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :829 ;
+    :is_located_at_y :423 .
+
+:detectedobject_98_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :912 ;
+    :is_located_at_y :419 .
+
+:detectedobject_98_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :929 ;
+    :is_located_at_y :417 .
+
+:detectedobject_98_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :209 ;
+    :is_located_at_y :467 .
+
+:detectedobject_98_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :771 ;
+    :is_located_at_y :459 .
+
+:detectedobject_99_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :712 ;
+    :is_located_at_y :481 .
+
+:detectedobject_99_10 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :894 ;
+    :is_located_at_y :419 .
+
+:detectedobject_99_11 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :41 ;
+    :is_located_at_y :486 .
+
+:detectedobject_99_2 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :709 ;
+    :is_located_at_y :482 .
+
+:detectedobject_99_3 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :953 ;
+    :is_located_at_y :224 .
+
+:detectedobject_99_4 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :748 ;
+    :is_located_at_y :235 .
+
+:detectedobject_99_5 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :842 ;
+    :is_located_at_y :233 .
+
+:detectedobject_99_6 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :908 ;
+    :is_located_at_y :325 .
+
+:detectedobject_99_7 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :932 ;
+    :is_located_at_y :328 .
+
+:detectedobject_99_8 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1090 ;
+    :is_located_at_y :344 .
+
+:detectedobject_99_9 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :1237 ;
+    :is_located_at_y :367 .
+
+:detectedobject_9_1 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :88 ;
+    :is_located_at_y :551 .
+
+:detectedobject_9_2 a :detectedobject ;
+    :haslabel :traffic_light ;
+    :is_located_at_x :717 ;
+    :is_located_at_y :296 .
+
+:detectedobject_9_3 a :detectedobject ;
+    :haslabel :truck ;
+    :is_located_at_x :1246 ;
+    :is_located_at_y :418 .
+
+:detectedobject_9_4 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :495 ;
+    :is_located_at_y :453 .
+
+:detectedobject_9_5 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :681 ;
+    :is_located_at_y :454 .
+
+:detectedobject_9_6 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :893 ;
+    :is_located_at_y :441 .
+
+:detectedobject_9_7 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :26 ;
+    :is_located_at_y :471 .
+
+:detectedobject_9_8 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :120 ;
+    :is_located_at_y :467 .
+
+:detectedobject_9_9 a :detectedobject ;
+    :haslabel :car ;
+    :is_located_at_x :243 ;
+    :is_located_at_y :475 .
+
+:fire_hydrant a :label .
+
+:1 a :time .
+
+:10 a :time .
+
+:100 a :time .
+
+:101 a :time .
+
+:1026 a :objectlocation_x .
+
+:106 a :objectlocation_x,
+        :objectlocation_y .
+
+:1063 a :objectlocation_x .
+
+:11 a :time .
+
+:1100 a :objectlocation_x .
+
+:114 a :objectlocation_x,
+        :objectlocation_y .
+
+:1155 a :objectlocation_x .
+
+:1282 a :objectlocation_x .
+
+:1295 a :objectlocation_x .
+
+:1298 a :objectlocation_x .
+
+:13 a :time .
+
+:133 a :objectlocation_x .
+
+:1381 a :objectlocation_x .
+
+:139 a :objectlocation_y .
+
+:14 a :time .
+
+:148 a :objectlocation_y .
+
+:15 a :time .
+
+:1533 a :objectlocation_x .
+
+:16 a :time .
+
+:160 a :objectlocation_x,
+        :objectlocation_y .
+
+:169 a :objectlocation_x,
+        :objectlocation_y .
+
+:173 a :objectlocation_x .
+
+:1740 a :objectlocation_x .
+
+:1789 a :objectlocation_x .
+
+:18 a :time .
+
+:19 a :time .
+
+:192 a :objectlocation_x .
+
+:199 a :objectlocation_y .
+
+:2 a :time .
+
+:20 a :time .
+
+:209 a :objectlocation_x,
+        :objectlocation_y .
+
+:21 a :time .
+
+:22 a :time .
+
+:23 a :time .
+
+:234 a :objectlocation_y .
+
+:235 a :objectlocation_y .
+
+:24 a :time .
+
+:241 a :objectlocation_x .
+
+:244 a :objectlocation_y .
+
+:246 a :objectlocation_y .
+
+:25 a :time .
+
+:266 a :objectlocation_x .
+
+:27 a :time .
+
+:275 a :objectlocation_y .
+
+:28 a :time .
+
+:289 a :objectlocation_x .
+
+:296 a :objectlocation_y .
+
+:3 a :time .
+
+:306 a :objectlocation_y .
+
+:31 a :time .
+
+:325 a :objectlocation_x,
+        :objectlocation_y .
+
+:329 a :objectlocation_y .
+
+:34 a :time .
+
+:343 a :objectlocation_x .
+
+:347 a :objectlocation_x,
+        :objectlocation_y .
+
+:348 a :objectlocation_x,
+        :objectlocation_y .
+
+:35 a :time .
+
+:350 a :objectlocation_x,
+        :objectlocation_y .
+
+:351 a :objectlocation_x .
+
+:355 a :objectlocation_x .
+
+:358 a :objectlocation_x,
+        :objectlocation_y .
+
+:360 a :objectlocation_x,
+        :objectlocation_y .
+
+:37 a :time .
+
+:38 a :time .
+
+:383 a :objectlocation_x .
+
+:39 a :time .
+
+:399 a :objectlocation_x,
+        :objectlocation_y .
+
+:4 a :time .
+
+:40 a :time .
+
+:401 a :objectlocation_x,
+        :objectlocation_y .
+
+:402 a :objectlocation_y .
+
+:406 a :objectlocation_y .
+
+:408 a :objectlocation_y .
+
+:410 a :objectlocation_x,
+        :objectlocation_y .
+
+:413 a :objectlocation_x .
+
+:418 a :objectlocation_y .
+
+:42 a :time .
+
+:421 a :objectlocation_y .
+
+:43 a :time .
+
+:433 a :objectlocation_x,
+        :objectlocation_y .
+
+:44 a :time .
+
+:45 a :time .
+
+:458 a :objectlocation_y .
+
+:46 a :time .
+
+:461 a :objectlocation_y .
+
+:47 a :time .
+
+:479 a :objectlocation_y .
+
+:48 a :time .
+
+:49 a :time .
+
+:493 a :objectlocation_y .
+
+:494 a :objectlocation_y .
+
+:5 a :time .
+
+:50 a :time .
+
+:501 a :objectlocation_x,
+        :objectlocation_y .
+
+:514 a :objectlocation_y .
+
+:52 a :time .
+
+:524 a :objectlocation_y .
+
+:525 a :objectlocation_x .
+
+:528 a :objectlocation_y .
+
+:529 a :objectlocation_x,
+        :objectlocation_y .
+
+:533 a :objectlocation_x,
+        :objectlocation_y .
+
+:542 a :objectlocation_x,
+        :objectlocation_y .
+
+:545 a :objectlocation_y .
+
+:546 a :objectlocation_y .
+
+:548 a :objectlocation_x,
+        :objectlocation_y .
+
+:549 a :objectlocation_x,
+        :objectlocation_y .
+
+:55 a :time .
+
+:558 a :objectlocation_y .
+
+:559 a :objectlocation_x,
+        :objectlocation_y .
+
+:56 a :time .
+
+:560 a :objectlocation_x .
+
+:563 a :objectlocation_x .
+
+:564 a :objectlocation_x,
+        :objectlocation_y .
+
+:57 a :time .
+
+:571 a :objectlocation_y .
+
+:58 a :time .
+
+:580 a :objectlocation_x .
+
+:585 a :objectlocation_x .
+
+:586 a :objectlocation_x,
+        :objectlocation_y .
+
+:59 a :time .
+
+:593 a :objectlocation_y .
+
+:6 a :time .
+
+:60 a :time .
+
+:601 a :objectlocation_x .
+
+:608 a :objectlocation_x .
+
+:613 a :objectlocation_x,
+        :objectlocation_y .
+
+:614 a :objectlocation_x .
+
+:62 a :time .
+
+:621 a :objectlocation_y .
+
+:63 a :time .
+
+:631 a :objectlocation_x .
+
+:634 a :objectlocation_x .
+
+:642 a :objectlocation_x .
+
+:65 a :time .
+
+:66 a :time .
+
+:676 a :objectlocation_x .
+
+:68 a :time .
+
+:69 a :time .
+
+:7 a :time .
+
+:70 a :time .
+
+:708 a :objectlocation_x .
+
+:709 a :objectlocation_x,
+        :objectlocation_y .
+
+:71 a :time .
+
+:72 a :time .
+
+:720 a :objectlocation_x .
+
+:722 a :objectlocation_x .
+
+:723 a :objectlocation_y .
+
+:728 a :objectlocation_x .
+
+:73 a :time .
+
+:734 a :objectlocation_y .
+
+:74 a :time .
+
+:75 a :time .
+
+:752 a :objectlocation_x .
+
+:76 a :time .
+
+:77 a :time .
+
+:771 a :objectlocation_x .
+
+:78 a :time .
+
+:783 a :objectlocation_x .
+
+:788 a :objectlocation_x .
+
+:79 a :time .
+
+:795 a :objectlocation_x .
+
+:799 a :objectlocation_x .
+
+:8 a :time .
+
+:81 a :time .
+
+:82 a :time .
+
+:820 a :objectlocation_x .
+
+:824 a :objectlocation_x .
+
+:826 a :objectlocation_x .
+
+:831 a :objectlocation_x .
+
+:836 a :objectlocation_x .
+
+:84 a :time .
+
+:842 a :objectlocation_x .
+
+:854 a :objectlocation_x .
+
+:86 a :time .
+
+:863 a :objectlocation_x .
+
+:865 a :objectlocation_x .
+
+:87 a :time .
+
+:871 a :objectlocation_x .
+
+:872 a :objectlocation_x .
+
+:875 a :objectlocation_x .
+
+:877 a :objectlocation_x .
+
+:896 a :objectlocation_x .
+
+:90 a :time .
+
+:901 a :objectlocation_x .
+
+:903 a :objectlocation_x .
+
+:905 a :objectlocation_x .
+
+:907 a :objectlocation_x .
+
+:91 a :time .
+
+:912 a :objectlocation_x .
+
+:92 a :time .
+
+:93 a :time .
+
+:935 a :objectlocation_x .
+
+:938 a :objectlocation_x .
+
+:94 a :time .
+
+:942 a :objectlocation_x .
+
+:944 a :objectlocation_x .
+
+:95 a :time .
+
+:953 a :objectlocation_x .
+
+:96 a :time .
+
+:974 a :objectlocation_x .
+
+:977 a :objectlocation_x .
+
+:979 a :objectlocation_x .
+
+:98 a :time .
+
+:99 a :time .
+
+:Image a owl:Class .
+
+:1007 a :objectlocation_x .
+
+:1112 a :objectlocation_x .
+
+:12 a :objectlocation_x,
+        :time .
+
+:131 a :objectlocation_x .
+
+:1346 a :objectlocation_x .
+
+:17 a :objectlocation_x,
+        :time .
+
+:26 a :objectlocation_x,
+        :time .
+
+:288 a :objectlocation_x,
+        :objectlocation_y .
+
+:29 a :objectlocation_y,
+        :time .
+
+:30 a :objectlocation_x,
+        :time .
+
+:301 a :objectlocation_y .
+
+:32 a :objectlocation_x,
+        :time .
+
+:349 a :objectlocation_y .
+
+:36 a :objectlocation_y,
+        :time .
+
+:420 a :objectlocation_x,
+        :objectlocation_y .
+
+:435 a :objectlocation_x .
+
+:454 a :objectlocation_y .
+
+:459 a :objectlocation_y .
+
+:472 a :objectlocation_y .
+
+:475 a :objectlocation_y .
+
+:486 a :objectlocation_y .
+
+:492 a :objectlocation_y .
+
+:503 a :objectlocation_x,
+        :objectlocation_y .
+
+:509 a :objectlocation_y .
+
+:51 a :objectlocation_x,
+        :time .
+
+:511 a :objectlocation_y .
+
+:520 a :objectlocation_y .
+
+:521 a :objectlocation_y .
+
+:522 a :objectlocation_x,
+        :objectlocation_y .
+
+:527 a :objectlocation_x,
+        :objectlocation_y .
+
+:53 a :objectlocation_x,
+        :time .
+
+:543 a :objectlocation_y .
+
+:547 a :objectlocation_x,
+        :objectlocation_y .
+
+:573 a :objectlocation_x,
+        :objectlocation_y .
+
+:574 a :objectlocation_x,
+        :objectlocation_y .
+
+:609 a :objectlocation_x,
+        :objectlocation_y .
+
+:61 a :objectlocation_x,
+        :time .
+
+:611 a :objectlocation_x .
+
+:64 a :objectlocation_x,
+        :time .
+
+:67 a :objectlocation_x,
+        :time .
+
+:686 a :objectlocation_x .
+
+:694 a :objectlocation_x .
+
+:729 a :objectlocation_x .
+
+:747 a :objectlocation_x .
+
+:749 a :objectlocation_x .
+
+:753 a :objectlocation_x .
+
+:763 a :objectlocation_x .
+
+:790 a :objectlocation_x .
+
+:796 a :objectlocation_x .
+
+:80 a :objectlocation_x,
+        :time .
+
+:825 a :objectlocation_x .
+
+:83 a :objectlocation_x,
+        :time .
+
+:85 a :objectlocation_y,
+        :time .
+
+:860 a :objectlocation_x .
+
+:868 a :objectlocation_x .
+
+:88 a :objectlocation_x,
+        :time .
+
+:89 a :objectlocation_y,
+        :time .
+
+:9 a :objectlocation_x,
+        :time .
+
+:940 a :objectlocation_x .
+
+:97 a :objectlocation_y,
+        :time .
+
+:975 a :objectlocation_x .
+
+:287 a :objectlocation_x,
+        :objectlocation_y .
+
+:33 a :objectlocation_x,
+        :time .
+
+:424 a :objectlocation_y .
+
+:464 a :objectlocation_x,
+        :objectlocation_y .
+
+:487 a :objectlocation_y .
+
+:495 a :objectlocation_x,
+        :objectlocation_y .
+
+:506 a :objectlocation_y .
+
+:507 a :objectlocation_y .
+
+:54 a :objectlocation_x,
+        :time .
+
+:607 a :objectlocation_x .
+
+:610 a :objectlocation_x .
+
+:638 a :objectlocation_x .
+
+:721 a :objectlocation_x .
+
+:748 a :objectlocation_x .
+
+:787 a :objectlocation_x .
+
+:829 a :objectlocation_x .
+
+:866 a :objectlocation_x .
+
+:904 a :objectlocation_x .
+
+:908 a :objectlocation_x .
+
+:941 a :objectlocation_x .
+
+:bus a :label .
+
+:171 a :objectlocation_x,
+        :objectlocation_y .
+
+:279 a :objectlocation_x,
+        :objectlocation_y .
+
+:41 a :objectlocation_x,
+        :time .
+
+:419 a :objectlocation_y .
+
+:423 a :objectlocation_x,
+        :objectlocation_y .
+
+:425 a :objectlocation_y .
+
+:426 a :objectlocation_x,
+        :objectlocation_y .
+
+:467 a :objectlocation_y .
+
+:481 a :objectlocation_y .
+
+:489 a :objectlocation_y .
+
+:536 a :objectlocation_x,
+        :objectlocation_y .
+
+:802 a :objectlocation_x .
+
+:867 a :objectlocation_x .
+
+:869 a :objectlocation_x .
+
+:902 a :objectlocation_x .
+
+:939 a :objectlocation_x .
+
+:1010 a :objectlocation_x .
+
+:1022 a :objectlocation_x .
+
+:280 a :objectlocation_x .
+
+:336 a :objectlocation_y .
+
+:440 a :objectlocation_y .
+
+:442 a :objectlocation_y .
+
+:452 a :objectlocation_y .
+
+:453 a :objectlocation_x,
+        :objectlocation_y .
+
+:460 a :objectlocation_y .
+
+:465 a :objectlocation_y .
+
+:466 a :objectlocation_y .
+
+:474 a :objectlocation_x,
+        :objectlocation_y .
+
+:483 a :objectlocation_y .
+
+:512 a :objectlocation_y .
+
+:612 a :objectlocation_x,
+        :objectlocation_y .
+
+:label a owl:Class .
+
+:427 a :objectlocation_y .
+
+:449 a :objectlocation_x,
+        :objectlocation_y .
+
+:470 a :objectlocation_x,
+        :objectlocation_y .
+
+:484 a :objectlocation_y .
+
+:488 a :objectlocation_y .
+
+:490 a :objectlocation_x,
+        :objectlocation_y .
+
+:830 a :objectlocation_x .
+
+:895 a :objectlocation_x .
+
+:person a :label .
+
+:238 a :objectlocation_x,
+        :objectlocation_y .
+
+:428 a :objectlocation_y .
+
+:429 a :objectlocation_x,
+        :objectlocation_y .
+
+:462 a :objectlocation_y .
+
+:513 a :objectlocation_y .
+
+:535 a :objectlocation_x,
+        :objectlocation_y .
+
+:828 a :objectlocation_x .
+
+:833 a :objectlocation_x .
+
+:432 a :objectlocation_x,
+        :objectlocation_y .
+
+:441 a :objectlocation_y .
+
+:443 a :objectlocation_y .
+
+:447 a :objectlocation_y .
+
+:468 a :objectlocation_y .
+
+:471 a :objectlocation_x,
+        :objectlocation_y .
+
+:473 a :objectlocation_y .
+
+:431 a :objectlocation_x,
+        :objectlocation_y .
+
+:438 a :objectlocation_x,
+        :objectlocation_y .
+
+:439 a :objectlocation_y .
+
+:446 a :objectlocation_y .
+
+:448 a :objectlocation_y .
+
+:491 a :objectlocation_y .
+
+:1239 a :objectlocation_x .
+
+:430 a :objectlocation_y .
+
+:482 a :objectlocation_y .
+
+:445 a :objectlocation_y .
+
+:480 a :objectlocation_y .
+
+:180 a :objectlocation_y .
+
+:444 a :objectlocation_y .
+
+:129 a :objectlocation_x,
+        :objectlocation_y .
+
+:584 a :objectlocation_x .
+
+:281 a :objectlocation_x,
+        :objectlocation_y .
+
+:359 a :objectlocation_x,
+        :objectlocation_y .
+
+:451 a :objectlocation_y .
+
+:450 a :objectlocation_y .
+
+:1240 a :objectlocation_x .
+
+:truck a :label .
+
+:Camera_Image a owl:Class ;
+    rdfs:label "Camera Image"@en ;
+    rdfs:subClassOf :Image .
+
+:Object_Detection_Process a owl:Class ;
+    rdfs:label "Object Detection Process"@en ;
+    rdfs:subClassOf :Process .
+
+:Object_detection_Image a owl:Class ;
+    rdfs:label "Object Detection Image"@en ;
+    rdfs:subClassOf :Image .
+
+:time a owl:Class ;
+    rdfs:label "time"@en .
+
+:traffic_light a :label .
+
+:objectlocation_y a owl:Class .
+
+:objectlocation_x a owl:Class .
+
+:car a :label .
+
+:detectedobject a owl:Class .
+

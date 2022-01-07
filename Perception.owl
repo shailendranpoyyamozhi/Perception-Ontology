@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#"
+     xml:base="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#contains -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#contains"/>
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#has_input -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#has_input">
+        <rdfs:label xml:lang="en">has input</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#has_output -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#has_output">
+        <rdfs:label xml:lang="en">has output</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#haslabel -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#haslabel"/>
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#is_located_at_x -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#is_located_at_x"/>
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#is_located_at_y -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#is_located_at_y"/>
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#occured_in -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#occured_in">
+        <rdfs:label xml:lang="en">occured in</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#Algorithm -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#Algorithm"/>
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#Camera_Image -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#Camera_Image">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#Image"/>
+        <rdfs:label xml:lang="en">Camera Image</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#Computer_Vision_Algorithm -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#Computer_Vision_Algorithm">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#Algorithm"/>
+        <rdfs:label xml:lang="en">Computer Vision Algorithm</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#Image -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#Image"/>
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#Object_Detection_Process -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#Object_Detection_Process">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#Process"/>
+        <rdfs:label xml:lang="en">Object Detection Process</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#Object_detection_Image -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#Object_detection_Image">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#Image"/>
+        <rdfs:label xml:lang="en">Object Detection Image</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#Process -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#Process"/>
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#detectedobject -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#detectedobject"/>
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#label -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#label"/>
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#objectlocation_x -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#objectlocation_x"/>
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#objectlocation_y -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#objectlocation_y"/>
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#pointclouddata -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#pointclouddata">
+        <rdfs:label xml:lang="en">Point Cloud Data</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#time -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/shailendran/ontologies/2021/9/untitled-ontology-7#time">
+        <rdfs:label xml:lang="en">time</rdfs:label>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
